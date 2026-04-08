@@ -29,7 +29,7 @@ This project demonstrates how to analyze e-commerce sales data using Snowflake.
 * sql/ → SQL scripts
 * README.md → Documentation
 
-## 📷 Sample Queries
+## 📷 Sample Output 
 ![OUTPUT-1](https://github.com/user-attachments/assets/e8c07504-57be-45e1-9c61-8334b761fec5)
 ![OUTPUT-2](https://github.com/user-attachments/assets/1c381ccd-8abe-40d5-a12d-da522a72ac8f)
 
