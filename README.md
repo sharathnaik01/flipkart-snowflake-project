@@ -1,4 +1,4 @@
-# 🛒 Flipkart Sales Analysis using Snowflake
+<img width="1536" height="1024" alt="architecture diagram" src="https://github.com/user-attachments/assets/54bd5fa0-7091-4132-a1c9-a9d872c9c246" /># 🛒 Flipkart Sales Analysis using Snowflake
 
 ## 📌 Project Overview
 
@@ -9,6 +9,11 @@ This project demonstrates how to analyze e-commerce sales data using Snowflake.
 * Snowflake (Data Warehouse)
 * SQL
 * CSV Dataset
+
+## Added architecture diagram for Flipkart Sales Snowflake project
+
+<img width="1536" height="1024" alt="architecture diagram" src="https://github.com/user-attachments/assets/edd0cfad-9328-4884-9c3c-275bfe6a61b8" />
+
 
 ## 📊 Key Insights
 
