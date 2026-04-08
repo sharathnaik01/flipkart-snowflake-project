@@ -37,6 +37,41 @@ This project demonstrates how to analyze e-commerce sales data using Snowflake.
 SELECT category, SUM(price * quantity) AS revenue
 FROM flipkart_sales
 GROUP BY category;
+
+--SELECTING ALL THE DATA ---
+SELECT * FROM   flipkart_sales ;
+
+
+-- Total Revenue--
+SELECT SUM(PRICE * QUANTITY) AS TOTAL_REVENUE
+FROM FLIPKART_SALES;
+
+
+--Top 5 Selling Products---
+SELECT PRODUCT_NAME,SUM(QUANTITY) AS TOTAL_SALES
+FROM FLIPKART_SALES
+GROUP BY PRODUCT_NAME
+ORDER BY TOTAL_SALES DESC
+LIMIT 5;
+
+
+--Revenue by Category--
+SELECT CATEGORY,SUM(PRICE * QUANTITY) AS TOTAL_CATEGORY
+FROM FLIPKART_SALES
+GROUP BY CATEGORY
+ORDER BY TOTAL_CATEGORY DESC;
+
+
+---City-wise Sales---
+SELECT CITY, SUM(PRICE * QUANTITY) AS REVENU
+FROM FLIPKART_SALES
+GROUP BY CITY
+ORDER BY REVENU DESC;
+
+---Payment Method Analysis---
+SELECT payment_method, COUNT(*) AS total_orders
+FROM flipkart_sales
+GROUP BY payment_method;
 ```
 
 ## 📌 Outcome
