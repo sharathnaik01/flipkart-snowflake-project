@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="architecture diagram" src="https://github.com/user-attachments/assets/54bd5fa0-7091-4132-a1c9-a9d872c9c246" /># 🛒 Flipkart Sales Analysis using Snowflake
+# 🛒 Flipkart Sales Analysis using Snowflake
 
 ## 📌 Project Overview
 
