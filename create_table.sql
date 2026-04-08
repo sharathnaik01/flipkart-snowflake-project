@@ -1,0 +1,31 @@
+--CREATING DATABASE---
+CREATE DATABASE FLIPKART;
+
+
+--CREATING FILE FORMAT----
+CREATE OR REPLACE FILE FORMAT FF_CSV
+TYPE='CSV'
+FIELD_OPTIONALLY_ENCLOSED_BY ='"'
+SKIP_HEADER=1
+NULL_IF =('NULL','null','')
+
+--CREATING STAGE ----
+CREATE OR REPLACE STAGE
+STH_FLIPKART_SALES
+FILE_FORMAT=FF_CSV
+
+
+--CREATING TABLE FOR FLIPKART---
+CREATE OR REPLACE TABLE (
+    order_id INT,
+    customer_id INT,
+    customer_name STRING,
+    product_name STRING,
+    category STRING,
+    price FLOAT,
+    quantity INT,
+    order_date DATE,
+    city STRING,
+    payment_method STRING
+);
+

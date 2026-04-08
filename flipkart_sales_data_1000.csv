@@ -1,0 +1,1001 @@
+order_id,customer_id,customer_name,product_name,category,price,quantity,order_date,city,payment_method
+10000,5411,Customer_0,Product_30,Clothing,21306.11,5,2024-07-10,Hyderabad,Cash on Delivery
+10001,5362,Customer_1,Product_5,Home,28249.68,1,2024-05-06,Bangalore,Debit Card
+10002,5368,Customer_2,Product_45,Clothing,41589.37,5,2024-01-29,Delhi,Cash on Delivery
+10003,5076,Customer_3,Product_190,Electronics,34935.28,5,2024-05-23,Chennai,Credit Card
+10004,5023,Customer_4,Product_136,Electronics,42230.18,5,2024-05-01,Chennai,Credit Card
+10005,5235,Customer_5,Product_101,Sports,28938.76,3,2024-02-28,Hyderabad,Credit Card
+10006,5208,Customer_6,Product_10,Electronics,6109.97,2,2024-10-05,Delhi,Debit Card
+10007,5161,Customer_7,Product_164,Clothing,43666.01,3,2024-12-10,Bangalore,Debit Card
+10008,5459,Customer_8,Product_15,Clothing,5832.55,4,2024-11-02,Delhi,UPI
+10009,5329,Customer_9,Product_90,Sports,47951.61,5,2024-09-30,Delhi,UPI
+10010,5208,Customer_10,Product_14,Books,7131.0,4,2024-09-04,Mumbai,Debit Card
+10011,5422,Customer_11,Product_142,Home,10774.86,1,2024-11-02,Bangalore,Debit Card
+10012,5044,Customer_12,Product_81,Sports,3050.49,1,2024-12-26,Hyderabad,UPI
+10013,5409,Customer_13,Product_102,Sports,37444.24,4,2024-05-09,Mumbai,Cash on Delivery
+10014,5312,Customer_14,Product_194,Books,27535.3,3,2024-05-17,Mumbai,Cash on Delivery
+10015,5341,Customer_15,Product_119,Electronics,29359.72,5,2024-08-29,Bangalore,Credit Card
+10016,5315,Customer_16,Product_55,Sports,45111.29,1,2024-07-01,Chennai,Debit Card
+10017,5281,Customer_17,Product_101,Electronics,1999.71,4,2024-06-06,Bangalore,Cash on Delivery
+10018,5319,Customer_18,Product_116,Home,4122.33,4,2024-05-29,Chennai,Credit Card
+10019,5324,Customer_19,Product_62,Books,10604.05,5,2024-04-20,Mumbai,Debit Card
+10020,5006,Customer_20,Product_83,Sports,37788.23,1,2024-10-01,Delhi,UPI
+10021,5187,Customer_21,Product_32,Clothing,34832.75,2,2024-08-26,Hyderabad,UPI
+10022,5073,Customer_22,Product_9,Sports,8501.08,2,2024-09-15,Delhi,Cash on Delivery
+10023,5469,Customer_23,Product_162,Clothing,5645.62,2,2024-05-29,Bangalore,Cash on Delivery
+10024,5240,Customer_24,Product_63,Sports,10893.19,3,2024-05-31,Bangalore,Debit Card
+10025,5422,Customer_25,Product_186,Clothing,24061.07,1,2024-06-10,Mumbai,Cash on Delivery
+10026,5024,Customer_26,Product_149,Electronics,24490.83,2,2024-07-24,Chennai,Credit Card
+10027,5490,Customer_27,Product_132,Clothing,2611.4,2,2024-09-14,Hyderabad,Debit Card
+10028,5005,Customer_28,Product_74,Home,45741.89,5,2024-09-22,Delhi,Credit Card
+10029,5292,Customer_29,Product_84,Sports,26580.69,3,2024-12-04,Delhi,Cash on Delivery
+10030,5171,Customer_30,Product_105,Books,10416.77,1,2024-05-25,Mumbai,Credit Card
+10031,5135,Customer_31,Product_84,Home,26744.09,1,2024-05-23,Chennai,UPI
+10032,5009,Customer_32,Product_171,Clothing,24009.04,5,2024-05-28,Bangalore,UPI
+10033,5033,Customer_33,Product_29,Electronics,27306.19,5,2024-04-07,Delhi,Cash on Delivery
+10034,5316,Customer_34,Product_2,Books,35897.56,4,2024-05-12,Mumbai,Cash on Delivery
+10035,5440,Customer_35,Product_59,Electronics,24757.31,4,2024-05-08,Chennai,Credit Card
+10036,5133,Customer_36,Product_115,Electronics,2327.54,1,2024-05-26,Delhi,Debit Card
+10037,5419,Customer_37,Product_131,Sports,21436.76,4,2024-05-28,Delhi,UPI
+10038,5384,Customer_38,Product_161,Sports,8394.48,5,2024-05-15,Chennai,Cash on Delivery
+10039,5067,Customer_39,Product_92,Home,9855.25,1,2024-03-15,Mumbai,Debit Card
+10040,5271,Customer_40,Product_54,Clothing,17766.37,1,2024-07-03,Bangalore,Debit Card
+10041,5020,Customer_41,Product_62,Home,39249.06,5,2024-12-25,Chennai,UPI
+10042,5407,Customer_42,Product_160,Home,48093.5,2,2024-06-02,Delhi,Credit Card
+10043,5248,Customer_43,Product_28,Clothing,28331.11,3,2024-06-23,Chennai,Credit Card
+10044,5143,Customer_44,Product_184,Home,44661.3,2,2024-05-19,Mumbai,UPI
+10045,5067,Customer_45,Product_77,Sports,2786.11,1,2024-03-17,Bangalore,Credit Card
+10046,5136,Customer_46,Product_58,Books,46642.89,3,2024-01-11,Delhi,UPI
+10047,5236,Customer_47,Product_13,Clothing,31025.13,4,2024-04-09,Delhi,Cash on Delivery
+10048,5446,Customer_48,Product_94,Clothing,27388.67,4,2024-06-22,Bangalore,Debit Card
+10049,5423,Customer_49,Product_81,Sports,36356.35,1,2024-04-19,Hyderabad,UPI
+10050,5062,Customer_50,Product_61,Electronics,29109.59,1,2024-12-03,Delhi,Cash on Delivery
+10051,5312,Customer_51,Product_33,Electronics,28467.22,3,2024-02-17,Delhi,Credit Card
+10052,5065,Customer_52,Product_41,Books,36428.24,5,2024-08-03,Hyderabad,UPI
+10053,5309,Customer_53,Product_149,Books,46410.0,1,2024-08-03,Bangalore,Cash on Delivery
+10054,5482,Customer_54,Product_82,Books,7115.08,2,2024-04-04,Bangalore,Cash on Delivery
+10055,5027,Customer_55,Product_160,Electronics,39664.93,4,2024-10-07,Delhi,Cash on Delivery
+10056,5023,Customer_56,Product_61,Clothing,38076.18,5,2024-10-18,Chennai,UPI
+10057,5279,Customer_57,Product_24,Clothing,13662.61,1,2024-10-16,Chennai,Cash on Delivery
+10058,5270,Customer_58,Product_21,Books,5988.55,2,2024-08-28,Chennai,Cash on Delivery
+10059,5217,Customer_59,Product_40,Home,34128.23,2,2024-02-04,Delhi,Cash on Delivery
+10060,5456,Customer_60,Product_172,Books,8679.16,1,2024-07-16,Delhi,Cash on Delivery
+10061,5024,Customer_61,Product_147,Home,27440.61,4,2024-12-30,Hyderabad,Debit Card
+10062,5210,Customer_62,Product_2,Home,21503.6,3,2024-11-02,Mumbai,Debit Card
+10063,5133,Customer_63,Product_169,Home,35753.62,2,2024-12-15,Mumbai,Credit Card
+10064,5405,Customer_64,Product_23,Electronics,40407.19,2,2024-05-29,Mumbai,Credit Card
+10065,5440,Customer_65,Product_20,Sports,46787.22,4,2024-08-05,Bangalore,Credit Card
+10066,5373,Customer_66,Product_77,Sports,14382.4,5,2024-03-30,Delhi,Debit Card
+10067,5207,Customer_67,Product_198,Sports,27613.27,5,2024-03-20,Hyderabad,Credit Card
+10068,5383,Customer_68,Product_54,Home,16033.45,1,2024-11-09,Bangalore,UPI
+10069,5065,Customer_69,Product_54,Home,6868.82,4,2024-08-26,Chennai,Debit Card
+10070,5093,Customer_70,Product_140,Home,31883.04,5,2024-07-16,Hyderabad,Cash on Delivery
+10071,5073,Customer_71,Product_191,Electronics,38439.26,1,2024-04-08,Chennai,Debit Card
+10072,5070,Customer_72,Product_111,Sports,15863.0,2,2024-04-04,Chennai,UPI
+10073,5460,Customer_73,Product_35,Sports,38584.58,2,2024-10-19,Delhi,Cash on Delivery
+10074,5020,Customer_74,Product_35,Clothing,413.95,4,2024-05-06,Mumbai,Cash on Delivery
+10075,5449,Customer_75,Product_2,Sports,26325.57,2,2024-02-06,Chennai,Debit Card
+10076,5161,Customer_76,Product_74,Sports,46488.74,2,2024-03-10,Delhi,Debit Card
+10077,5387,Customer_77,Product_186,Home,35119.66,3,2024-03-30,Bangalore,Cash on Delivery
+10078,5429,Customer_78,Product_113,Clothing,24473.88,5,2024-01-18,Hyderabad,Credit Card
+10079,5441,Customer_79,Product_165,Clothing,42555.6,4,2024-03-06,Chennai,Credit Card
+10080,5086,Customer_80,Product_55,Electronics,49055.05,1,2024-11-16,Chennai,Debit Card
+10081,5252,Customer_81,Product_8,Home,46194.72,4,2024-10-19,Hyderabad,Credit Card
+10082,5242,Customer_82,Product_89,Clothing,26321.55,3,2024-12-17,Hyderabad,Cash on Delivery
+10083,5366,Customer_83,Product_63,Clothing,17818.71,4,2024-12-16,Chennai,UPI
+10084,5023,Customer_84,Product_142,Books,37687.73,3,2024-07-01,Hyderabad,Credit Card
+10085,5338,Customer_85,Product_61,Sports,4027.76,5,2024-11-14,Hyderabad,Credit Card
+10086,5171,Customer_86,Product_11,Home,23759.28,1,2024-02-09,Delhi,Cash on Delivery
+10087,5105,Customer_87,Product_87,Clothing,42260.78,5,2024-02-27,Bangalore,UPI
+10088,5220,Customer_88,Product_117,Books,11397.5,2,2024-06-15,Bangalore,UPI
+10089,5097,Customer_89,Product_75,Sports,20104.83,3,2024-01-29,Delhi,Cash on Delivery
+10090,5265,Customer_90,Product_93,Home,46082.17,4,2024-08-16,Bangalore,UPI
+10091,5097,Customer_91,Product_102,Electronics,23280.18,3,2024-08-27,Delhi,Credit Card
+10092,5314,Customer_92,Product_159,Books,32873.5,3,2024-03-19,Delhi,Debit Card
+10093,5458,Customer_93,Product_16,Electronics,36606.86,2,2024-03-25,Chennai,Credit Card
+10094,5418,Customer_94,Product_73,Home,17549.09,4,2024-12-26,Hyderabad,Debit Card
+10095,5498,Customer_95,Product_45,Sports,31743.97,3,2024-12-28,Bangalore,Credit Card
+10096,5179,Customer_96,Product_28,Electronics,14320.81,1,2024-09-11,Hyderabad,Cash on Delivery
+10097,5315,Customer_97,Product_95,Books,29785.49,2,2024-09-10,Hyderabad,UPI
+10098,5386,Customer_98,Product_86,Books,37652.24,2,2024-05-19,Delhi,Debit Card
+10099,5021,Customer_99,Product_123,Books,28697.29,3,2024-03-21,Mumbai,Cash on Delivery
+10100,5393,Customer_100,Product_145,Sports,26508.32,4,2024-04-16,Bangalore,Cash on Delivery
+10101,5153,Customer_101,Product_102,Home,11147.16,3,2024-10-24,Bangalore,Cash on Delivery
+10102,5257,Customer_102,Product_10,Electronics,40092.94,4,2024-09-13,Mumbai,Cash on Delivery
+10103,5214,Customer_103,Product_46,Sports,6784.74,3,2024-09-06,Chennai,UPI
+10104,5448,Customer_104,Product_198,Electronics,8331.44,4,2024-01-10,Delhi,Debit Card
+10105,5476,Customer_105,Product_88,Books,33094.78,5,2024-11-09,Mumbai,Credit Card
+10106,5499,Customer_106,Product_104,Books,7409.45,2,2024-07-14,Delhi,Cash on Delivery
+10107,5361,Customer_107,Product_174,Books,43830.13,3,2024-09-17,Bangalore,Cash on Delivery
+10108,5096,Customer_108,Product_35,Sports,26721.4,3,2024-07-10,Bangalore,UPI
+10109,5065,Customer_109,Product_102,Sports,4301.12,1,2024-10-18,Bangalore,Cash on Delivery
+10110,5339,Customer_110,Product_31,Home,472.77,3,2024-08-26,Hyderabad,Credit Card
+10111,5463,Customer_111,Product_155,Home,20943.53,3,2024-06-21,Bangalore,Credit Card
+10112,5363,Customer_112,Product_118,Clothing,29831.82,3,2024-05-25,Bangalore,UPI
+10113,5099,Customer_113,Product_166,Books,45576.02,1,2024-02-24,Chennai,Cash on Delivery
+10114,5415,Customer_114,Product_118,Clothing,47684.36,5,2024-05-24,Bangalore,Debit Card
+10115,5344,Customer_115,Product_16,Clothing,10141.23,3,2024-08-04,Bangalore,Cash on Delivery
+10116,5109,Customer_116,Product_47,Sports,41775.75,2,2024-03-20,Chennai,Debit Card
+10117,5304,Customer_117,Product_39,Sports,34277.42,5,2024-05-31,Chennai,UPI
+10118,5201,Customer_118,Product_77,Home,20646.36,5,2024-06-02,Bangalore,Debit Card
+10119,5169,Customer_119,Product_7,Home,4534.5,4,2024-04-06,Delhi,Credit Card
+10120,5208,Customer_120,Product_103,Books,43106.91,5,2024-06-01,Hyderabad,Debit Card
+10121,5055,Customer_121,Product_53,Electronics,8570.0,5,2024-05-03,Chennai,Cash on Delivery
+10122,5088,Customer_122,Product_74,Home,5372.31,3,2024-01-20,Delhi,Debit Card
+10123,5088,Customer_123,Product_174,Clothing,26827.63,4,2024-10-08,Delhi,Debit Card
+10124,5017,Customer_124,Product_133,Home,12059.84,2,2024-10-27,Hyderabad,UPI
+10125,5028,Customer_125,Product_28,Electronics,21847.15,1,2024-02-10,Hyderabad,UPI
+10126,5012,Customer_126,Product_136,Sports,8775.87,3,2024-01-29,Delhi,Credit Card
+10127,5414,Customer_127,Product_71,Electronics,23569.64,5,2024-05-02,Hyderabad,UPI
+10128,5123,Customer_128,Product_114,Sports,42500.33,1,2024-11-18,Mumbai,UPI
+10129,5446,Customer_129,Product_184,Clothing,33773.31,2,2024-06-02,Hyderabad,Debit Card
+10130,5027,Customer_130,Product_151,Sports,9281.13,5,2024-10-21,Hyderabad,Debit Card
+10131,5164,Customer_131,Product_113,Sports,23586.48,2,2024-11-13,Bangalore,Debit Card
+10132,5375,Customer_132,Product_111,Books,26142.41,5,2024-06-26,Chennai,Cash on Delivery
+10133,5229,Customer_133,Product_191,Clothing,15446.86,5,2024-05-25,Hyderabad,Credit Card
+10134,5246,Customer_134,Product_24,Books,45955.86,2,2024-07-11,Chennai,Credit Card
+10135,5461,Customer_135,Product_128,Home,13353.4,4,2024-02-10,Hyderabad,Cash on Delivery
+10136,5154,Customer_136,Product_180,Clothing,1666.13,1,2024-02-10,Hyderabad,Credit Card
+10137,5438,Customer_137,Product_14,Sports,25250.47,4,2024-08-13,Mumbai,UPI
+10138,5492,Customer_138,Product_181,Clothing,16831.34,2,2024-07-01,Hyderabad,Debit Card
+10139,5128,Customer_139,Product_73,Sports,41058.85,1,2024-06-17,Delhi,UPI
+10140,5237,Customer_140,Product_58,Sports,32813.69,1,2024-04-19,Bangalore,UPI
+10141,5323,Customer_141,Product_37,Clothing,13838.29,2,2024-03-27,Mumbai,Debit Card
+10142,5006,Customer_142,Product_40,Home,40920.96,1,2024-08-21,Bangalore,Credit Card
+10143,5406,Customer_143,Product_58,Books,16388.14,2,2024-11-14,Delhi,UPI
+10144,5472,Customer_144,Product_95,Sports,47982.74,1,2024-03-06,Bangalore,Cash on Delivery
+10145,5394,Customer_145,Product_77,Home,28749.91,3,2024-06-26,Mumbai,UPI
+10146,5277,Customer_146,Product_84,Sports,4716.07,3,2024-08-31,Delhi,Debit Card
+10147,5458,Customer_147,Product_170,Electronics,21333.01,5,2024-04-03,Mumbai,UPI
+10148,5317,Customer_148,Product_177,Electronics,17287.34,1,2024-06-17,Bangalore,Debit Card
+10149,5353,Customer_149,Product_42,Books,9957.89,2,2024-12-16,Delhi,Debit Card
+10150,5020,Customer_150,Product_188,Sports,34340.26,3,2024-02-13,Bangalore,UPI
+10151,5403,Customer_151,Product_44,Sports,24573.41,4,2024-06-19,Hyderabad,Credit Card
+10152,5028,Customer_152,Product_83,Electronics,13731.79,5,2024-09-30,Bangalore,Cash on Delivery
+10153,5370,Customer_153,Product_102,Sports,8710.48,5,2024-06-05,Bangalore,Debit Card
+10154,5229,Customer_154,Product_81,Home,8376.68,1,2024-01-13,Mumbai,Credit Card
+10155,5468,Customer_155,Product_178,Books,37902.42,2,2024-08-05,Bangalore,UPI
+10156,5150,Customer_156,Product_189,Books,47140.95,4,2024-05-28,Mumbai,Debit Card
+10157,5351,Customer_157,Product_7,Electronics,20564.43,3,2024-07-11,Bangalore,Cash on Delivery
+10158,5449,Customer_158,Product_9,Books,27818.49,3,2024-04-30,Delhi,Debit Card
+10159,5375,Customer_159,Product_54,Electronics,16619.32,5,2024-03-28,Mumbai,Credit Card
+10160,5057,Customer_160,Product_20,Home,20313.19,4,2024-11-06,Hyderabad,Cash on Delivery
+10161,5212,Customer_161,Product_19,Home,39370.71,4,2024-05-05,Bangalore,Cash on Delivery
+10162,5094,Customer_162,Product_72,Books,26168.19,3,2024-03-27,Bangalore,UPI
+10163,5347,Customer_163,Product_36,Sports,40882.96,1,2024-04-24,Chennai,Cash on Delivery
+10164,5252,Customer_164,Product_102,Sports,800.5,1,2024-02-13,Mumbai,Debit Card
+10165,5471,Customer_165,Product_62,Electronics,8460.47,5,2024-12-21,Bangalore,Debit Card
+10166,5053,Customer_166,Product_117,Electronics,30175.34,4,2024-10-02,Mumbai,Credit Card
+10167,5083,Customer_167,Product_132,Electronics,9151.95,1,2024-12-12,Delhi,UPI
+10168,5110,Customer_168,Product_74,Home,40457.36,5,2024-04-10,Mumbai,Debit Card
+10169,5340,Customer_169,Product_193,Home,49801.15,1,2024-01-02,Hyderabad,UPI
+10170,5182,Customer_170,Product_129,Clothing,46578.42,1,2024-01-13,Mumbai,UPI
+10171,5496,Customer_171,Product_91,Sports,2052.33,3,2024-09-27,Hyderabad,Debit Card
+10172,5099,Customer_172,Product_59,Electronics,7354.46,4,2024-03-27,Bangalore,Debit Card
+10173,5424,Customer_173,Product_195,Home,3112.87,2,2024-03-23,Bangalore,Debit Card
+10174,5114,Customer_174,Product_8,Home,9390.84,4,2024-09-23,Mumbai,UPI
+10175,5408,Customer_175,Product_43,Books,6507.31,4,2024-08-12,Delhi,Debit Card
+10176,5333,Customer_176,Product_47,Sports,18658.04,3,2024-09-21,Mumbai,UPI
+10177,5174,Customer_177,Product_9,Electronics,24188.84,4,2024-08-21,Bangalore,UPI
+10178,5251,Customer_178,Product_137,Home,17239.63,5,2024-07-11,Bangalore,UPI
+10179,5001,Customer_179,Product_13,Home,26899.67,3,2024-03-01,Bangalore,UPI
+10180,5383,Customer_180,Product_25,Electronics,35998.3,4,2024-03-24,Delhi,Cash on Delivery
+10181,5389,Customer_181,Product_38,Electronics,37170.4,5,2024-12-28,Hyderabad,UPI
+10182,5160,Customer_182,Product_41,Clothing,14405.41,2,2024-02-07,Chennai,Cash on Delivery
+10183,5330,Customer_183,Product_153,Electronics,1095.45,2,2024-02-07,Hyderabad,Credit Card
+10184,5282,Customer_184,Product_50,Books,24155.99,1,2024-10-21,Hyderabad,UPI
+10185,5464,Customer_185,Product_137,Electronics,6241.79,1,2024-04-25,Bangalore,Credit Card
+10186,5241,Customer_186,Product_110,Electronics,14426.26,2,2024-08-22,Bangalore,Credit Card
+10187,5428,Customer_187,Product_129,Electronics,18602.95,2,2024-05-14,Bangalore,Debit Card
+10188,5060,Customer_188,Product_193,Home,40479.07,1,2024-07-02,Mumbai,Debit Card
+10189,5491,Customer_189,Product_64,Books,42078.46,4,2024-03-11,Hyderabad,Credit Card
+10190,5240,Customer_190,Product_165,Electronics,14207.37,5,2024-04-08,Mumbai,Credit Card
+10191,5015,Customer_191,Product_136,Books,27678.99,3,2024-05-05,Chennai,Credit Card
+10192,5441,Customer_192,Product_74,Sports,14846.08,1,2024-12-10,Mumbai,Debit Card
+10193,5299,Customer_193,Product_147,Books,34447.02,1,2024-12-04,Hyderabad,UPI
+10194,5352,Customer_194,Product_23,Books,7911.22,2,2024-04-28,Chennai,Credit Card
+10195,5053,Customer_195,Product_26,Electronics,44094.81,3,2024-02-01,Chennai,UPI
+10196,5236,Customer_196,Product_129,Clothing,36422.84,3,2024-09-28,Delhi,Debit Card
+10197,5258,Customer_197,Product_96,Clothing,29272.19,2,2024-01-16,Hyderabad,Credit Card
+10198,5012,Customer_198,Product_114,Electronics,3918.2,3,2024-09-06,Hyderabad,Debit Card
+10199,5288,Customer_199,Product_37,Electronics,2367.91,1,2024-05-27,Chennai,Debit Card
+10200,5355,Customer_200,Product_50,Books,43864.41,5,2024-06-14,Hyderabad,Debit Card
+10201,5293,Customer_201,Product_79,Clothing,11606.13,2,2024-08-17,Bangalore,UPI
+10202,5210,Customer_202,Product_190,Clothing,17805.92,5,2024-02-01,Bangalore,UPI
+10203,5119,Customer_203,Product_139,Books,9011.5,2,2024-11-05,Delhi,Credit Card
+10204,5056,Customer_204,Product_72,Electronics,45908.73,4,2024-04-21,Chennai,Debit Card
+10205,5199,Customer_205,Product_162,Home,23466.81,2,2024-04-23,Bangalore,Cash on Delivery
+10206,5209,Customer_206,Product_57,Electronics,11769.3,3,2024-05-16,Bangalore,Credit Card
+10207,5124,Customer_207,Product_132,Books,36855.57,3,2024-01-30,Hyderabad,Debit Card
+10208,5144,Customer_208,Product_190,Books,7519.29,5,2024-01-10,Hyderabad,Debit Card
+10209,5391,Customer_209,Product_198,Clothing,43264.99,4,2024-04-18,Bangalore,Cash on Delivery
+10210,5011,Customer_210,Product_114,Sports,25218.53,1,2024-08-20,Mumbai,Credit Card
+10211,5011,Customer_211,Product_144,Home,24340.68,4,2024-08-20,Hyderabad,UPI
+10212,5244,Customer_212,Product_157,Electronics,24157.79,4,2024-06-15,Bangalore,Cash on Delivery
+10213,5240,Customer_213,Product_111,Home,16737.15,1,2024-06-13,Hyderabad,Credit Card
+10214,5201,Customer_214,Product_16,Books,49025.04,5,2024-07-05,Bangalore,Debit Card
+10215,5473,Customer_215,Product_149,Home,16061.9,2,2024-08-28,Chennai,Debit Card
+10216,5102,Customer_216,Product_94,Home,32049.78,5,2024-05-11,Delhi,Cash on Delivery
+10217,5022,Customer_217,Product_35,Sports,42572.49,1,2024-04-20,Delhi,Cash on Delivery
+10218,5376,Customer_218,Product_196,Clothing,47075.86,1,2024-01-19,Delhi,Debit Card
+10219,5148,Customer_219,Product_166,Home,21584.7,2,2024-08-28,Delhi,UPI
+10220,5234,Customer_220,Product_79,Electronics,8988.67,4,2024-01-23,Bangalore,Cash on Delivery
+10221,5150,Customer_221,Product_83,Clothing,28939.04,4,2024-04-07,Delhi,Debit Card
+10222,5081,Customer_222,Product_100,Electronics,26395.33,1,2024-04-18,Hyderabad,UPI
+10223,5159,Customer_223,Product_175,Sports,9270.66,3,2024-06-26,Bangalore,UPI
+10224,5281,Customer_224,Product_193,Sports,4290.62,2,2024-01-27,Chennai,Cash on Delivery
+10225,5394,Customer_225,Product_167,Electronics,269.07,1,2024-09-13,Bangalore,UPI
+10226,5488,Customer_226,Product_112,Home,11431.32,4,2024-05-15,Bangalore,UPI
+10227,5199,Customer_227,Product_127,Electronics,4508.57,4,2024-01-21,Delhi,UPI
+10228,5271,Customer_228,Product_105,Books,22526.36,1,2024-02-08,Chennai,Cash on Delivery
+10229,5324,Customer_229,Product_9,Books,9126.99,4,2024-04-07,Chennai,Credit Card
+10230,5018,Customer_230,Product_35,Home,11131.55,1,2024-05-24,Bangalore,Cash on Delivery
+10231,5387,Customer_231,Product_58,Books,10920.55,4,2024-02-25,Chennai,Cash on Delivery
+10232,5129,Customer_232,Product_6,Home,41748.32,4,2024-01-20,Bangalore,Debit Card
+10233,5056,Customer_233,Product_28,Home,2076.03,5,2024-12-27,Bangalore,Debit Card
+10234,5195,Customer_234,Product_199,Electronics,2740.59,3,2024-07-12,Bangalore,Cash on Delivery
+10235,5280,Customer_235,Product_155,Home,14436.03,2,2024-06-27,Delhi,Cash on Delivery
+10236,5422,Customer_236,Product_129,Clothing,34843.49,2,2024-01-07,Mumbai,Debit Card
+10237,5304,Customer_237,Product_28,Electronics,18840.17,3,2024-02-13,Delhi,UPI
+10238,5376,Customer_238,Product_188,Books,11589.47,5,2024-03-16,Delhi,Debit Card
+10239,5143,Customer_239,Product_194,Home,16228.1,3,2024-03-02,Mumbai,Cash on Delivery
+10240,5166,Customer_240,Product_74,Books,34989.7,3,2024-04-30,Delhi,Debit Card
+10241,5406,Customer_241,Product_146,Sports,45820.65,5,2024-02-28,Chennai,Debit Card
+10242,5260,Customer_242,Product_119,Books,12788.34,1,2024-09-18,Hyderabad,Debit Card
+10243,5317,Customer_243,Product_108,Clothing,19941.12,1,2024-04-12,Chennai,UPI
+10244,5468,Customer_244,Product_28,Sports,22005.34,5,2024-01-13,Chennai,UPI
+10245,5424,Customer_245,Product_27,Sports,14945.58,2,2024-03-04,Mumbai,Cash on Delivery
+10246,5287,Customer_246,Product_44,Clothing,44011.76,1,2024-06-17,Mumbai,UPI
+10247,5316,Customer_247,Product_131,Books,48590.54,5,2024-12-27,Chennai,Debit Card
+10248,5073,Customer_248,Product_38,Sports,35517.46,1,2024-12-22,Mumbai,Cash on Delivery
+10249,5399,Customer_249,Product_96,Clothing,16478.61,4,2024-10-06,Delhi,Credit Card
+10250,5364,Customer_250,Product_88,Books,44933.65,3,2024-02-02,Chennai,UPI
+10251,5123,Customer_251,Product_94,Electronics,44556.65,3,2024-03-03,Mumbai,Cash on Delivery
+10252,5127,Customer_252,Product_16,Home,42618.63,4,2024-09-14,Mumbai,UPI
+10253,5251,Customer_253,Product_148,Electronics,49785.36,1,2024-03-18,Bangalore,Debit Card
+10254,5394,Customer_254,Product_60,Clothing,13205.96,4,2024-04-27,Mumbai,Debit Card
+10255,5071,Customer_255,Product_66,Home,23183.55,2,2024-04-29,Delhi,Credit Card
+10256,5336,Customer_256,Product_86,Sports,34243.22,5,2024-03-06,Delhi,Credit Card
+10257,5043,Customer_257,Product_86,Clothing,16102.53,5,2024-04-22,Bangalore,Credit Card
+10258,5434,Customer_258,Product_24,Home,15493.54,4,2024-04-11,Mumbai,Debit Card
+10259,5186,Customer_259,Product_4,Sports,33162.83,3,2024-03-18,Mumbai,Credit Card
+10260,5174,Customer_260,Product_179,Electronics,23507.73,1,2024-11-16,Bangalore,Credit Card
+10261,5158,Customer_261,Product_49,Electronics,8713.65,3,2024-07-24,Chennai,Cash on Delivery
+10262,5412,Customer_262,Product_8,Electronics,2308.77,4,2024-05-29,Chennai,Debit Card
+10263,5491,Customer_263,Product_176,Books,1406.57,3,2024-01-20,Bangalore,Cash on Delivery
+10264,5054,Customer_264,Product_5,Home,27967.41,2,2024-08-19,Delhi,Cash on Delivery
+10265,5114,Customer_265,Product_19,Home,43838.72,1,2024-04-29,Delhi,UPI
+10266,5356,Customer_266,Product_62,Home,28530.15,4,2024-01-10,Mumbai,Cash on Delivery
+10267,5305,Customer_267,Product_116,Clothing,48412.4,4,2024-01-23,Mumbai,Credit Card
+10268,5415,Customer_268,Product_119,Sports,45801.13,5,2024-10-10,Mumbai,Cash on Delivery
+10269,5124,Customer_269,Product_80,Home,991.46,2,2024-08-22,Chennai,UPI
+10270,5405,Customer_270,Product_82,Sports,21720.02,3,2024-01-13,Mumbai,Cash on Delivery
+10271,5216,Customer_271,Product_125,Books,29423.83,4,2024-09-27,Hyderabad,Debit Card
+10272,5391,Customer_272,Product_98,Electronics,389.21,3,2024-01-28,Delhi,Debit Card
+10273,5132,Customer_273,Product_73,Clothing,10222.4,3,2024-01-17,Bangalore,Debit Card
+10274,5478,Customer_274,Product_88,Home,34580.63,5,2024-03-05,Chennai,Debit Card
+10275,5149,Customer_275,Product_133,Home,40384.16,5,2024-05-16,Chennai,UPI
+10276,5215,Customer_276,Product_23,Sports,42208.57,3,2024-06-25,Hyderabad,Debit Card
+10277,5187,Customer_277,Product_49,Clothing,36107.85,1,2024-06-17,Delhi,UPI
+10278,5128,Customer_278,Product_50,Clothing,14200.67,4,2024-08-25,Chennai,Debit Card
+10279,5359,Customer_279,Product_141,Books,10950.99,1,2024-06-19,Chennai,UPI
+10280,5098,Customer_280,Product_116,Books,44967.53,3,2024-05-03,Bangalore,Debit Card
+10281,5361,Customer_281,Product_101,Home,28751.3,1,2024-03-03,Bangalore,Debit Card
+10282,5263,Customer_282,Product_39,Books,49448.38,4,2024-04-02,Bangalore,Cash on Delivery
+10283,5081,Customer_283,Product_109,Clothing,26482.6,4,2024-06-16,Hyderabad,Cash on Delivery
+10284,5431,Customer_284,Product_135,Books,49049.82,3,2024-07-12,Hyderabad,Debit Card
+10285,5260,Customer_285,Product_59,Electronics,1637.19,3,2024-02-14,Delhi,Credit Card
+10286,5398,Customer_286,Product_187,Electronics,23280.35,4,2024-09-18,Hyderabad,Debit Card
+10287,5165,Customer_287,Product_44,Home,49417.83,2,2024-01-21,Chennai,Credit Card
+10288,5461,Customer_288,Product_126,Clothing,27410.05,2,2024-06-01,Chennai,UPI
+10289,5290,Customer_289,Product_45,Electronics,31387.7,4,2024-04-09,Mumbai,UPI
+10290,5093,Customer_290,Product_169,Books,22070.96,1,2024-01-12,Chennai,UPI
+10291,5366,Customer_291,Product_132,Home,45314.52,5,2024-01-05,Hyderabad,UPI
+10292,5299,Customer_292,Product_180,Home,47689.91,4,2024-11-18,Delhi,Credit Card
+10293,5491,Customer_293,Product_127,Books,1397.31,1,2024-08-03,Mumbai,Credit Card
+10294,5297,Customer_294,Product_170,Sports,11721.44,2,2024-12-14,Delhi,Cash on Delivery
+10295,5176,Customer_295,Product_122,Books,33680.66,2,2024-06-26,Hyderabad,Cash on Delivery
+10296,5275,Customer_296,Product_43,Home,20903.31,1,2024-04-17,Bangalore,Debit Card
+10297,5073,Customer_297,Product_53,Electronics,13704.75,5,2024-04-04,Chennai,Cash on Delivery
+10298,5093,Customer_298,Product_112,Electronics,35633.16,4,2024-06-21,Mumbai,UPI
+10299,5313,Customer_299,Product_161,Home,5382.7,1,2024-09-29,Mumbai,Credit Card
+10300,5314,Customer_300,Product_128,Sports,46618.16,4,2024-02-04,Delhi,UPI
+10301,5485,Customer_301,Product_57,Clothing,29331.64,1,2024-05-09,Hyderabad,Cash on Delivery
+10302,5286,Customer_302,Product_33,Books,34514.23,5,2024-01-23,Delhi,Credit Card
+10303,5294,Customer_303,Product_64,Books,48343.69,3,2024-09-02,Hyderabad,Debit Card
+10304,5055,Customer_304,Product_7,Clothing,13915.4,3,2024-08-10,Mumbai,Debit Card
+10305,5261,Customer_305,Product_109,Sports,49935.73,4,2024-05-06,Mumbai,Debit Card
+10306,5146,Customer_306,Product_31,Home,49629.0,3,2024-04-16,Delhi,Cash on Delivery
+10307,5339,Customer_307,Product_58,Home,7090.27,1,2024-08-14,Hyderabad,Credit Card
+10308,5153,Customer_308,Product_40,Home,21531.4,3,2024-07-08,Chennai,Cash on Delivery
+10309,5112,Customer_309,Product_192,Sports,20097.01,4,2024-02-25,Chennai,Debit Card
+10310,5155,Customer_310,Product_121,Sports,14010.93,2,2024-02-03,Hyderabad,Debit Card
+10311,5121,Customer_311,Product_112,Sports,24774.5,5,2024-02-07,Mumbai,Debit Card
+10312,5198,Customer_312,Product_21,Sports,38091.29,4,2024-04-13,Delhi,UPI
+10313,5365,Customer_313,Product_39,Home,13369.75,1,2024-12-06,Hyderabad,UPI
+10314,5282,Customer_314,Product_104,Clothing,22268.73,2,2024-04-02,Mumbai,Credit Card
+10315,5325,Customer_315,Product_95,Sports,12251.26,1,2024-12-17,Bangalore,UPI
+10316,5402,Customer_316,Product_140,Books,10367.85,4,2024-01-25,Hyderabad,Debit Card
+10317,5337,Customer_317,Product_168,Sports,14900.46,2,2024-04-14,Delhi,Credit Card
+10318,5258,Customer_318,Product_142,Electronics,27901.96,3,2024-07-31,Bangalore,UPI
+10319,5418,Customer_319,Product_117,Books,21489.85,1,2024-01-14,Delhi,Debit Card
+10320,5445,Customer_320,Product_96,Sports,48083.71,3,2024-05-25,Mumbai,UPI
+10321,5119,Customer_321,Product_133,Electronics,8424.08,4,2024-07-16,Mumbai,Debit Card
+10322,5430,Customer_322,Product_43,Electronics,44635.41,5,2024-11-24,Chennai,Debit Card
+10323,5303,Customer_323,Product_118,Electronics,46817.98,1,2024-09-07,Chennai,Debit Card
+10324,5202,Customer_324,Product_101,Electronics,1272.85,5,2024-12-21,Bangalore,Cash on Delivery
+10325,5417,Customer_325,Product_185,Electronics,39921.99,2,2024-03-11,Hyderabad,Debit Card
+10326,5349,Customer_326,Product_83,Home,23958.14,5,2024-10-10,Chennai,Cash on Delivery
+10327,5026,Customer_327,Product_174,Home,44836.85,3,2024-02-04,Chennai,Credit Card
+10328,5001,Customer_328,Product_57,Electronics,21699.07,4,2024-10-18,Delhi,Debit Card
+10329,5384,Customer_329,Product_191,Electronics,35196.45,5,2024-10-28,Mumbai,Credit Card
+10330,5461,Customer_330,Product_190,Home,21300.69,3,2024-11-25,Chennai,Debit Card
+10331,5024,Customer_331,Product_130,Sports,12204.23,4,2024-10-09,Bangalore,Debit Card
+10332,5150,Customer_332,Product_162,Sports,15057.95,2,2024-09-14,Mumbai,Debit Card
+10333,5040,Customer_333,Product_92,Clothing,9848.09,3,2024-03-19,Bangalore,Credit Card
+10334,5072,Customer_334,Product_192,Books,15391.69,3,2024-12-27,Mumbai,Cash on Delivery
+10335,5154,Customer_335,Product_20,Home,30606.67,5,2024-03-14,Bangalore,Credit Card
+10336,5220,Customer_336,Product_51,Clothing,12742.89,2,2024-04-03,Mumbai,Cash on Delivery
+10337,5021,Customer_337,Product_106,Sports,13509.74,2,2024-10-14,Mumbai,Debit Card
+10338,5174,Customer_338,Product_155,Sports,5682.0,4,2024-03-29,Bangalore,Debit Card
+10339,5347,Customer_339,Product_97,Books,27230.94,5,2024-11-18,Bangalore,Credit Card
+10340,5489,Customer_340,Product_3,Books,13990.9,2,2024-10-12,Chennai,UPI
+10341,5157,Customer_341,Product_68,Home,7278.92,5,2024-06-21,Mumbai,Debit Card
+10342,5349,Customer_342,Product_48,Books,25126.98,1,2024-08-06,Mumbai,Cash on Delivery
+10343,5003,Customer_343,Product_131,Books,27264.32,1,2024-08-05,Chennai,Debit Card
+10344,5024,Customer_344,Product_100,Home,42052.38,1,2024-07-16,Hyderabad,Credit Card
+10345,5365,Customer_345,Product_193,Books,43418.54,2,2024-11-30,Bangalore,Cash on Delivery
+10346,5072,Customer_346,Product_101,Sports,1623.25,1,2024-10-30,Hyderabad,Cash on Delivery
+10347,5075,Customer_347,Product_175,Sports,49611.82,5,2024-01-11,Delhi,Debit Card
+10348,5465,Customer_348,Product_85,Home,38085.81,4,2024-07-18,Delhi,Cash on Delivery
+10349,5011,Customer_349,Product_176,Books,42213.52,1,2024-11-16,Bangalore,Cash on Delivery
+10350,5152,Customer_350,Product_79,Electronics,31691.42,5,2024-12-19,Hyderabad,Debit Card
+10351,5468,Customer_351,Product_48,Books,44977.01,1,2024-02-06,Chennai,Cash on Delivery
+10352,5199,Customer_352,Product_57,Home,19137.68,3,2024-01-12,Hyderabad,Credit Card
+10353,5460,Customer_353,Product_188,Home,8548.29,1,2024-04-06,Bangalore,UPI
+10354,5312,Customer_354,Product_78,Clothing,17872.23,4,2024-12-10,Delhi,Credit Card
+10355,5357,Customer_355,Product_69,Electronics,39854.14,5,2024-04-16,Bangalore,UPI
+10356,5396,Customer_356,Product_54,Electronics,22788.19,5,2024-12-04,Chennai,UPI
+10357,5121,Customer_357,Product_191,Books,16612.41,2,2024-04-28,Mumbai,Debit Card
+10358,5208,Customer_358,Product_170,Clothing,44264.87,2,2024-04-16,Bangalore,Credit Card
+10359,5289,Customer_359,Product_110,Books,36978.56,3,2024-08-13,Mumbai,UPI
+10360,5181,Customer_360,Product_83,Clothing,23118.52,3,2024-04-23,Chennai,UPI
+10361,5104,Customer_361,Product_193,Home,9475.17,2,2024-05-26,Chennai,Debit Card
+10362,5300,Customer_362,Product_109,Clothing,46930.7,2,2024-07-03,Mumbai,Credit Card
+10363,5224,Customer_363,Product_71,Electronics,3935.73,1,2024-07-07,Chennai,Debit Card
+10364,5247,Customer_364,Product_140,Sports,462.32,4,2024-03-28,Bangalore,Debit Card
+10365,5500,Customer_365,Product_27,Home,24799.13,5,2024-02-16,Chennai,Debit Card
+10366,5069,Customer_366,Product_66,Sports,17996.79,2,2024-01-12,Chennai,Debit Card
+10367,5410,Customer_367,Product_72,Sports,24312.75,1,2024-09-12,Bangalore,Debit Card
+10368,5196,Customer_368,Product_44,Sports,39709.88,1,2024-07-16,Delhi,Cash on Delivery
+10369,5352,Customer_369,Product_1,Electronics,25143.8,4,2024-03-17,Mumbai,Debit Card
+10370,5380,Customer_370,Product_89,Sports,11225.73,1,2024-06-09,Hyderabad,Debit Card
+10371,5185,Customer_371,Product_149,Books,11134.97,3,2024-08-20,Hyderabad,Cash on Delivery
+10372,5346,Customer_372,Product_16,Sports,1609.31,4,2024-01-17,Chennai,Credit Card
+10373,5315,Customer_373,Product_39,Sports,28600.12,1,2024-09-12,Mumbai,Debit Card
+10374,5096,Customer_374,Product_46,Home,26954.11,4,2024-04-22,Bangalore,Cash on Delivery
+10375,5244,Customer_375,Product_180,Books,34986.32,4,2024-05-09,Chennai,UPI
+10376,5367,Customer_376,Product_79,Sports,35648.51,5,2024-06-05,Mumbai,Credit Card
+10377,5435,Customer_377,Product_67,Electronics,1628.55,2,2024-10-10,Delhi,UPI
+10378,5220,Customer_378,Product_96,Books,6631.61,5,2024-07-12,Bangalore,Credit Card
+10379,5173,Customer_379,Product_146,Books,43042.9,3,2024-04-20,Mumbai,Cash on Delivery
+10380,5203,Customer_380,Product_132,Home,26240.88,2,2024-03-01,Chennai,Credit Card
+10381,5363,Customer_381,Product_138,Electronics,7390.21,3,2024-05-15,Mumbai,UPI
+10382,5237,Customer_382,Product_194,Home,15294.05,5,2024-06-15,Delhi,Cash on Delivery
+10383,5319,Customer_383,Product_150,Home,722.27,3,2024-10-18,Hyderabad,Cash on Delivery
+10384,5306,Customer_384,Product_115,Sports,47876.79,5,2024-04-12,Hyderabad,Debit Card
+10385,5169,Customer_385,Product_17,Books,22777.14,3,2024-09-28,Bangalore,Cash on Delivery
+10386,5166,Customer_386,Product_54,Home,45607.96,1,2024-03-15,Hyderabad,Cash on Delivery
+10387,5236,Customer_387,Product_121,Clothing,32441.09,5,2024-06-02,Delhi,UPI
+10388,5500,Customer_388,Product_159,Books,12659.63,3,2024-03-06,Hyderabad,UPI
+10389,5163,Customer_389,Product_185,Electronics,20676.46,4,2024-04-18,Chennai,Credit Card
+10390,5398,Customer_390,Product_96,Electronics,1829.98,4,2024-09-21,Mumbai,Cash on Delivery
+10391,5188,Customer_391,Product_178,Electronics,38058.4,5,2024-04-01,Delhi,Debit Card
+10392,5349,Customer_392,Product_152,Home,48538.08,4,2024-12-30,Delhi,UPI
+10393,5172,Customer_393,Product_104,Clothing,1296.64,2,2024-07-08,Chennai,Cash on Delivery
+10394,5235,Customer_394,Product_17,Sports,39631.5,5,2024-09-12,Delhi,Cash on Delivery
+10395,5458,Customer_395,Product_33,Home,40204.34,3,2024-02-17,Delhi,UPI
+10396,5168,Customer_396,Product_49,Electronics,30292.63,2,2024-12-14,Mumbai,Cash on Delivery
+10397,5266,Customer_397,Product_126,Home,21220.95,3,2024-11-14,Delhi,Debit Card
+10398,5110,Customer_398,Product_49,Electronics,35784.8,5,2024-08-26,Bangalore,Debit Card
+10399,5050,Customer_399,Product_16,Books,25372.93,3,2024-07-03,Mumbai,Cash on Delivery
+10400,5411,Customer_400,Product_94,Clothing,13586.29,1,2024-11-06,Bangalore,Debit Card
+10401,5323,Customer_401,Product_56,Clothing,13844.6,5,2024-04-29,Delhi,Cash on Delivery
+10402,5075,Customer_402,Product_64,Home,18538.78,1,2024-02-27,Hyderabad,Cash on Delivery
+10403,5042,Customer_403,Product_9,Sports,24756.06,5,2024-01-01,Chennai,Debit Card
+10404,5165,Customer_404,Product_190,Clothing,45208.48,1,2024-05-17,Delhi,UPI
+10405,5011,Customer_405,Product_139,Home,26442.87,4,2024-03-06,Chennai,Credit Card
+10406,5490,Customer_406,Product_84,Electronics,49363.57,1,2024-05-27,Delhi,Cash on Delivery
+10407,5115,Customer_407,Product_139,Clothing,33699.21,2,2024-12-22,Delhi,Debit Card
+10408,5066,Customer_408,Product_33,Books,37099.48,3,2024-02-27,Chennai,Debit Card
+10409,5453,Customer_409,Product_132,Sports,24331.94,3,2024-04-17,Delhi,Credit Card
+10410,5052,Customer_410,Product_183,Books,12756.28,5,2024-03-03,Chennai,UPI
+10411,5177,Customer_411,Product_134,Sports,7585.69,5,2024-12-05,Hyderabad,Cash on Delivery
+10412,5108,Customer_412,Product_125,Electronics,47473.91,1,2024-10-21,Bangalore,Credit Card
+10413,5012,Customer_413,Product_184,Sports,42752.99,4,2024-02-07,Delhi,Cash on Delivery
+10414,5216,Customer_414,Product_29,Sports,37358.01,1,2024-03-28,Bangalore,Cash on Delivery
+10415,5261,Customer_415,Product_120,Home,13417.05,4,2024-05-14,Bangalore,Credit Card
+10416,5341,Customer_416,Product_136,Home,9831.35,1,2024-03-14,Delhi,UPI
+10417,5333,Customer_417,Product_119,Home,9834.92,4,2024-10-11,Bangalore,Debit Card
+10418,5451,Customer_418,Product_96,Home,20626.92,3,2024-10-29,Chennai,Cash on Delivery
+10419,5102,Customer_419,Product_148,Home,28916.61,2,2024-08-29,Delhi,Cash on Delivery
+10420,5352,Customer_420,Product_43,Electronics,45425.55,2,2024-07-31,Hyderabad,Debit Card
+10421,5111,Customer_421,Product_106,Home,41739.85,5,2024-10-31,Mumbai,UPI
+10422,5340,Customer_422,Product_64,Sports,49715.62,1,2024-02-23,Bangalore,UPI
+10423,5166,Customer_423,Product_45,Clothing,34289.91,1,2024-07-02,Chennai,Cash on Delivery
+10424,5232,Customer_424,Product_186,Sports,45388.16,1,2024-07-31,Hyderabad,UPI
+10425,5144,Customer_425,Product_67,Electronics,426.08,2,2024-01-14,Hyderabad,Debit Card
+10426,5362,Customer_426,Product_161,Clothing,36265.18,2,2024-03-13,Chennai,Debit Card
+10427,5009,Customer_427,Product_126,Clothing,33107.28,5,2024-11-09,Mumbai,Cash on Delivery
+10428,5279,Customer_428,Product_39,Clothing,23071.4,5,2024-04-08,Bangalore,UPI
+10429,5479,Customer_429,Product_60,Home,29337.96,5,2024-02-27,Mumbai,UPI
+10430,5262,Customer_430,Product_132,Electronics,18694.63,5,2024-05-01,Hyderabad,Cash on Delivery
+10431,5180,Customer_431,Product_91,Home,14367.23,1,2024-01-21,Chennai,Debit Card
+10432,5050,Customer_432,Product_54,Home,11085.04,2,2024-04-17,Bangalore,UPI
+10433,5114,Customer_433,Product_136,Home,634.65,4,2024-07-11,Mumbai,Cash on Delivery
+10434,5190,Customer_434,Product_80,Electronics,20746.26,2,2024-08-16,Chennai,Credit Card
+10435,5117,Customer_435,Product_83,Clothing,21283.4,2,2024-07-25,Chennai,UPI
+10436,5247,Customer_436,Product_172,Electronics,22040.09,4,2024-08-02,Bangalore,Credit Card
+10437,5343,Customer_437,Product_125,Clothing,25585.98,4,2024-12-16,Chennai,Debit Card
+10438,5126,Customer_438,Product_1,Books,11855.35,5,2024-07-10,Chennai,Cash on Delivery
+10439,5406,Customer_439,Product_32,Sports,24049.85,3,2024-10-10,Bangalore,Debit Card
+10440,5184,Customer_440,Product_97,Clothing,12264.89,2,2024-02-28,Hyderabad,UPI
+10441,5003,Customer_441,Product_184,Clothing,45562.28,2,2024-08-05,Hyderabad,UPI
+10442,5444,Customer_442,Product_90,Sports,31536.18,4,2024-10-21,Mumbai,Debit Card
+10443,5459,Customer_443,Product_125,Electronics,18088.42,1,2024-01-08,Hyderabad,Debit Card
+10444,5077,Customer_444,Product_24,Books,7312.31,1,2024-02-14,Chennai,UPI
+10445,5499,Customer_445,Product_137,Electronics,44112.36,1,2024-03-17,Delhi,Credit Card
+10446,5355,Customer_446,Product_73,Home,22515.1,2,2024-06-18,Mumbai,Debit Card
+10447,5344,Customer_447,Product_110,Sports,15624.31,4,2024-12-13,Delhi,Debit Card
+10448,5347,Customer_448,Product_120,Electronics,17151.43,2,2024-12-16,Delhi,Cash on Delivery
+10449,5272,Customer_449,Product_150,Electronics,37918.28,4,2024-04-28,Mumbai,Debit Card
+10450,5064,Customer_450,Product_18,Home,25924.39,1,2024-01-17,Chennai,Credit Card
+10451,5344,Customer_451,Product_171,Home,25689.49,1,2024-01-27,Bangalore,Credit Card
+10452,5143,Customer_452,Product_79,Clothing,35386.45,5,2024-02-18,Hyderabad,Credit Card
+10453,5327,Customer_453,Product_46,Books,33373.06,5,2024-06-27,Delhi,Debit Card
+10454,5181,Customer_454,Product_123,Sports,27973.17,2,2024-06-16,Chennai,Cash on Delivery
+10455,5059,Customer_455,Product_48,Clothing,31977.21,4,2024-02-18,Chennai,Cash on Delivery
+10456,5203,Customer_456,Product_57,Sports,41594.22,5,2024-01-02,Bangalore,Credit Card
+10457,5291,Customer_457,Product_109,Books,48137.91,3,2024-01-02,Mumbai,Credit Card
+10458,5339,Customer_458,Product_66,Clothing,41101.52,3,2024-08-02,Chennai,Cash on Delivery
+10459,5143,Customer_459,Product_37,Sports,1319.01,5,2024-10-01,Hyderabad,Debit Card
+10460,5173,Customer_460,Product_187,Sports,4176.88,3,2024-07-16,Mumbai,Cash on Delivery
+10461,5027,Customer_461,Product_110,Sports,31874.11,2,2024-12-24,Delhi,UPI
+10462,5382,Customer_462,Product_112,Sports,22356.42,1,2024-02-09,Mumbai,UPI
+10463,5010,Customer_463,Product_4,Clothing,37113.33,1,2024-02-02,Mumbai,Debit Card
+10464,5194,Customer_464,Product_43,Clothing,41861.32,3,2024-01-10,Chennai,Cash on Delivery
+10465,5421,Customer_465,Product_190,Sports,20555.39,4,2024-02-08,Hyderabad,Cash on Delivery
+10466,5437,Customer_466,Product_94,Books,9630.76,3,2024-12-18,Bangalore,Credit Card
+10467,5353,Customer_467,Product_11,Electronics,1019.46,4,2024-11-18,Hyderabad,UPI
+10468,5392,Customer_468,Product_177,Sports,47731.35,5,2024-03-21,Mumbai,Credit Card
+10469,5135,Customer_469,Product_53,Books,41065.17,1,2024-12-27,Mumbai,Debit Card
+10470,5266,Customer_470,Product_12,Electronics,44434.39,5,2024-07-26,Delhi,UPI
+10471,5376,Customer_471,Product_48,Sports,48327.8,2,2024-10-10,Chennai,Debit Card
+10472,5115,Customer_472,Product_57,Home,41988.76,4,2024-11-16,Delhi,Debit Card
+10473,5190,Customer_473,Product_56,Sports,14069.08,2,2024-04-22,Delhi,Cash on Delivery
+10474,5478,Customer_474,Product_62,Home,9706.29,4,2024-12-10,Delhi,UPI
+10475,5033,Customer_475,Product_158,Clothing,2197.43,3,2024-01-10,Delhi,Credit Card
+10476,5121,Customer_476,Product_123,Clothing,41023.16,5,2024-04-03,Bangalore,Cash on Delivery
+10477,5208,Customer_477,Product_149,Home,15213.42,3,2024-02-29,Chennai,Credit Card
+10478,5498,Customer_478,Product_101,Home,49857.56,5,2024-04-05,Bangalore,Credit Card
+10479,5121,Customer_479,Product_114,Sports,27545.34,1,2024-09-14,Mumbai,Credit Card
+10480,5337,Customer_480,Product_98,Electronics,4895.55,3,2024-08-26,Delhi,UPI
+10481,5256,Customer_481,Product_185,Clothing,15664.62,2,2024-01-09,Bangalore,Debit Card
+10482,5393,Customer_482,Product_32,Sports,14066.4,3,2024-12-10,Chennai,Credit Card
+10483,5154,Customer_483,Product_12,Clothing,12405.94,4,2024-04-19,Chennai,Debit Card
+10484,5008,Customer_484,Product_9,Books,3987.46,1,2024-12-11,Mumbai,Debit Card
+10485,5487,Customer_485,Product_193,Sports,9644.09,3,2024-08-22,Hyderabad,Credit Card
+10486,5295,Customer_486,Product_187,Home,45761.52,3,2024-05-18,Delhi,Credit Card
+10487,5158,Customer_487,Product_109,Electronics,45429.53,1,2024-05-15,Chennai,Cash on Delivery
+10488,5158,Customer_488,Product_101,Books,6063.72,4,2024-05-12,Hyderabad,UPI
+10489,5416,Customer_489,Product_79,Home,39135.49,5,2024-11-18,Chennai,Credit Card
+10490,5443,Customer_490,Product_65,Electronics,6446.56,5,2024-04-22,Hyderabad,Debit Card
+10491,5198,Customer_491,Product_11,Electronics,2705.77,1,2024-02-13,Delhi,Debit Card
+10492,5101,Customer_492,Product_106,Clothing,32405.53,5,2024-08-24,Bangalore,Debit Card
+10493,5436,Customer_493,Product_17,Electronics,17640.5,2,2024-12-06,Hyderabad,Cash on Delivery
+10494,5066,Customer_494,Product_16,Electronics,26449.39,1,2024-07-09,Hyderabad,Credit Card
+10495,5253,Customer_495,Product_54,Home,2373.93,2,2024-03-30,Hyderabad,Debit Card
+10496,5202,Customer_496,Product_163,Electronics,29310.25,4,2024-04-02,Mumbai,UPI
+10497,5261,Customer_497,Product_96,Clothing,12446.16,5,2024-09-17,Delhi,Cash on Delivery
+10498,5292,Customer_498,Product_27,Clothing,39351.4,4,2024-01-11,Chennai,Credit Card
+10499,5137,Customer_499,Product_176,Sports,47459.29,5,2024-08-23,Bangalore,Cash on Delivery
+10500,5489,Customer_500,Product_146,Electronics,28377.51,3,2024-08-31,Delhi,Debit Card
+10501,5061,Customer_501,Product_118,Clothing,40613.8,4,2024-10-01,Hyderabad,Cash on Delivery
+10502,5193,Customer_502,Product_102,Books,16011.28,5,2024-06-25,Delhi,Debit Card
+10503,5482,Customer_503,Product_79,Books,20521.78,5,2024-03-15,Hyderabad,Cash on Delivery
+10504,5370,Customer_504,Product_40,Books,45530.63,2,2024-11-15,Chennai,UPI
+10505,5221,Customer_505,Product_181,Electronics,28084.82,4,2024-01-10,Chennai,Cash on Delivery
+10506,5373,Customer_506,Product_119,Books,45067.8,2,2024-02-06,Chennai,UPI
+10507,5174,Customer_507,Product_136,Sports,26172.76,5,2024-05-19,Hyderabad,Credit Card
+10508,5077,Customer_508,Product_114,Home,41566.71,3,2024-01-08,Mumbai,UPI
+10509,5056,Customer_509,Product_88,Home,49033.52,4,2024-01-28,Delhi,Credit Card
+10510,5436,Customer_510,Product_126,Home,16534.93,4,2024-12-28,Hyderabad,Cash on Delivery
+10511,5454,Customer_511,Product_174,Electronics,37809.42,5,2024-06-15,Mumbai,Credit Card
+10512,5422,Customer_512,Product_11,Sports,4242.06,5,2024-07-12,Mumbai,Credit Card
+10513,5488,Customer_513,Product_37,Books,15016.76,5,2024-01-25,Chennai,Cash on Delivery
+10514,5082,Customer_514,Product_137,Home,12152.91,4,2024-11-15,Hyderabad,Cash on Delivery
+10515,5150,Customer_515,Product_64,Clothing,40264.83,4,2024-12-23,Hyderabad,UPI
+10516,5208,Customer_516,Product_85,Sports,14943.19,4,2024-10-15,Delhi,UPI
+10517,5024,Customer_517,Product_58,Home,28118.38,1,2024-04-22,Mumbai,UPI
+10518,5186,Customer_518,Product_124,Clothing,17867.01,2,2024-09-06,Chennai,UPI
+10519,5292,Customer_519,Product_173,Books,38450.37,5,2024-06-22,Chennai,Credit Card
+10520,5039,Customer_520,Product_66,Clothing,30610.66,4,2024-08-13,Mumbai,Debit Card
+10521,5149,Customer_521,Product_197,Books,26489.04,3,2024-11-06,Delhi,Cash on Delivery
+10522,5172,Customer_522,Product_25,Books,40315.81,3,2024-07-19,Hyderabad,Cash on Delivery
+10523,5097,Customer_523,Product_53,Home,29174.93,3,2024-12-17,Bangalore,UPI
+10524,5338,Customer_524,Product_32,Clothing,4398.82,4,2024-01-03,Hyderabad,Cash on Delivery
+10525,5187,Customer_525,Product_93,Home,39987.95,4,2024-09-24,Chennai,UPI
+10526,5260,Customer_526,Product_56,Sports,43280.92,4,2024-08-07,Mumbai,UPI
+10527,5075,Customer_527,Product_18,Home,9989.05,4,2024-03-03,Chennai,Debit Card
+10528,5417,Customer_528,Product_2,Electronics,44732.44,3,2024-09-17,Mumbai,Debit Card
+10529,5410,Customer_529,Product_106,Clothing,14180.32,4,2024-06-22,Hyderabad,Cash on Delivery
+10530,5469,Customer_530,Product_168,Sports,34998.04,5,2024-09-17,Bangalore,UPI
+10531,5221,Customer_531,Product_177,Sports,48934.66,3,2024-08-30,Chennai,Cash on Delivery
+10532,5489,Customer_532,Product_130,Electronics,32477.01,4,2024-11-27,Bangalore,Credit Card
+10533,5077,Customer_533,Product_94,Clothing,37623.59,4,2024-03-07,Delhi,Cash on Delivery
+10534,5273,Customer_534,Product_194,Books,40422.67,4,2024-03-16,Mumbai,Credit Card
+10535,5394,Customer_535,Product_129,Sports,30262.15,2,2024-06-17,Delhi,Credit Card
+10536,5099,Customer_536,Product_194,Sports,44719.45,2,2024-10-16,Chennai,Credit Card
+10537,5497,Customer_537,Product_83,Electronics,43459.43,5,2024-04-09,Delhi,Credit Card
+10538,5104,Customer_538,Product_53,Clothing,6019.32,1,2024-07-10,Mumbai,Cash on Delivery
+10539,5424,Customer_539,Product_51,Electronics,43709.85,2,2024-03-14,Chennai,Cash on Delivery
+10540,5488,Customer_540,Product_145,Clothing,24940.55,4,2024-04-19,Chennai,Credit Card
+10541,5267,Customer_541,Product_198,Electronics,43978.41,1,2024-06-27,Hyderabad,Credit Card
+10542,5113,Customer_542,Product_5,Electronics,29634.15,2,2024-05-02,Hyderabad,Credit Card
+10543,5330,Customer_543,Product_83,Home,3855.28,2,2024-12-04,Hyderabad,Credit Card
+10544,5038,Customer_544,Product_11,Clothing,31878.92,5,2024-02-20,Mumbai,Debit Card
+10545,5487,Customer_545,Product_153,Home,29599.64,5,2024-06-27,Bangalore,Credit Card
+10546,5007,Customer_546,Product_12,Home,22537.56,4,2024-12-06,Delhi,Credit Card
+10547,5463,Customer_547,Product_154,Sports,40750.38,5,2024-09-28,Chennai,UPI
+10548,5450,Customer_548,Product_68,Sports,11371.59,3,2024-06-28,Delhi,Credit Card
+10549,5460,Customer_549,Product_88,Clothing,47457.84,5,2024-07-03,Bangalore,Debit Card
+10550,5301,Customer_550,Product_190,Home,28541.48,2,2024-10-27,Mumbai,Credit Card
+10551,5336,Customer_551,Product_117,Home,48703.72,4,2024-06-17,Delhi,Credit Card
+10552,5476,Customer_552,Product_12,Books,18930.35,2,2024-05-01,Bangalore,Credit Card
+10553,5423,Customer_553,Product_99,Home,8050.06,1,2024-03-29,Mumbai,Cash on Delivery
+10554,5051,Customer_554,Product_161,Home,15048.17,3,2024-10-30,Hyderabad,Cash on Delivery
+10555,5148,Customer_555,Product_62,Books,30581.89,5,2024-01-23,Bangalore,Credit Card
+10556,5496,Customer_556,Product_1,Books,21353.54,4,2024-08-27,Delhi,Debit Card
+10557,5051,Customer_557,Product_5,Sports,39204.17,4,2024-03-28,Hyderabad,Debit Card
+10558,5064,Customer_558,Product_50,Home,3638.21,4,2024-07-13,Hyderabad,Debit Card
+10559,5182,Customer_559,Product_117,Clothing,8444.38,5,2024-12-16,Mumbai,Cash on Delivery
+10560,5242,Customer_560,Product_143,Clothing,11369.78,1,2024-02-26,Bangalore,Cash on Delivery
+10561,5238,Customer_561,Product_122,Home,47575.31,5,2024-05-27,Delhi,Credit Card
+10562,5172,Customer_562,Product_191,Home,38139.69,4,2024-08-28,Mumbai,UPI
+10563,5365,Customer_563,Product_23,Books,16457.42,2,2024-06-28,Chennai,Debit Card
+10564,5131,Customer_564,Product_192,Home,49329.62,3,2024-08-27,Chennai,Debit Card
+10565,5076,Customer_565,Product_78,Clothing,6281.27,2,2024-11-25,Chennai,Cash on Delivery
+10566,5040,Customer_566,Product_75,Clothing,2532.56,2,2024-05-20,Bangalore,Debit Card
+10567,5458,Customer_567,Product_40,Books,26110.69,3,2024-04-08,Bangalore,Cash on Delivery
+10568,5191,Customer_568,Product_97,Books,25036.62,5,2024-03-25,Mumbai,Debit Card
+10569,5340,Customer_569,Product_123,Clothing,28444.7,5,2024-07-21,Mumbai,Debit Card
+10570,5448,Customer_570,Product_22,Books,21412.57,1,2024-03-03,Delhi,Cash on Delivery
+10571,5326,Customer_571,Product_85,Home,49618.99,2,2024-09-04,Mumbai,Debit Card
+10572,5238,Customer_572,Product_136,Home,25929.59,4,2024-07-05,Hyderabad,Credit Card
+10573,5298,Customer_573,Product_162,Home,49009.1,4,2024-08-08,Bangalore,Cash on Delivery
+10574,5200,Customer_574,Product_36,Clothing,43505.96,1,2024-06-01,Chennai,Cash on Delivery
+10575,5455,Customer_575,Product_62,Books,45080.88,4,2024-04-25,Mumbai,Credit Card
+10576,5300,Customer_576,Product_18,Books,39090.13,1,2024-03-05,Chennai,UPI
+10577,5036,Customer_577,Product_1,Books,34427.87,5,2024-11-12,Mumbai,Credit Card
+10578,5040,Customer_578,Product_141,Sports,27487.89,1,2024-11-18,Mumbai,Debit Card
+10579,5054,Customer_579,Product_93,Sports,6511.79,3,2024-10-01,Mumbai,Cash on Delivery
+10580,5480,Customer_580,Product_107,Sports,13671.54,3,2024-10-04,Hyderabad,UPI
+10581,5346,Customer_581,Product_25,Sports,48450.63,4,2024-09-30,Delhi,Cash on Delivery
+10582,5476,Customer_582,Product_194,Clothing,17553.0,3,2024-12-01,Delhi,Debit Card
+10583,5215,Customer_583,Product_4,Clothing,8210.83,3,2024-04-29,Hyderabad,Debit Card
+10584,5041,Customer_584,Product_13,Sports,40529.85,4,2024-09-23,Chennai,Credit Card
+10585,5277,Customer_585,Product_23,Sports,39610.84,4,2024-12-07,Chennai,UPI
+10586,5097,Customer_586,Product_180,Electronics,10459.74,2,2024-04-27,Hyderabad,UPI
+10587,5439,Customer_587,Product_120,Home,15340.63,2,2024-11-11,Mumbai,UPI
+10588,5033,Customer_588,Product_62,Electronics,45682.62,4,2024-10-22,Delhi,Debit Card
+10589,5194,Customer_589,Product_145,Sports,16787.83,5,2024-07-16,Hyderabad,Cash on Delivery
+10590,5372,Customer_590,Product_87,Books,26868.55,5,2024-05-07,Chennai,UPI
+10591,5368,Customer_591,Product_157,Home,4136.66,4,2024-03-11,Chennai,Debit Card
+10592,5496,Customer_592,Product_34,Home,7652.84,3,2024-03-23,Mumbai,Credit Card
+10593,5124,Customer_593,Product_114,Books,10664.06,4,2024-02-07,Chennai,Credit Card
+10594,5340,Customer_594,Product_73,Sports,39849.28,4,2024-05-28,Chennai,Credit Card
+10595,5228,Customer_595,Product_116,Sports,33125.79,4,2024-02-11,Chennai,UPI
+10596,5098,Customer_596,Product_151,Sports,20119.61,3,2024-02-23,Mumbai,Credit Card
+10597,5181,Customer_597,Product_133,Sports,138.15,2,2024-05-17,Hyderabad,Cash on Delivery
+10598,5229,Customer_598,Product_197,Clothing,4141.73,1,2024-12-29,Bangalore,UPI
+10599,5142,Customer_599,Product_128,Electronics,22858.92,2,2024-06-01,Bangalore,Cash on Delivery
+10600,5247,Customer_600,Product_122,Home,27217.62,2,2024-07-27,Hyderabad,Debit Card
+10601,5279,Customer_601,Product_59,Electronics,18184.33,3,2024-12-14,Delhi,UPI
+10602,5469,Customer_602,Product_41,Clothing,40000.38,5,2024-05-16,Chennai,Credit Card
+10603,5004,Customer_603,Product_4,Home,3755.99,4,2024-08-19,Chennai,Credit Card
+10604,5150,Customer_604,Product_126,Clothing,5940.71,3,2024-08-19,Hyderabad,Credit Card
+10605,5497,Customer_605,Product_175,Electronics,47943.39,4,2024-01-14,Hyderabad,UPI
+10606,5300,Customer_606,Product_78,Clothing,19839.55,3,2024-05-08,Mumbai,UPI
+10607,5188,Customer_607,Product_10,Clothing,27572.44,3,2024-08-21,Hyderabad,UPI
+10608,5328,Customer_608,Product_141,Electronics,32706.54,1,2024-11-28,Bangalore,Debit Card
+10609,5144,Customer_609,Product_81,Home,42390.46,3,2024-02-04,Delhi,Cash on Delivery
+10610,5261,Customer_610,Product_5,Sports,20288.78,5,2024-01-04,Hyderabad,Credit Card
+10611,5099,Customer_611,Product_14,Sports,14001.89,1,2024-10-03,Bangalore,UPI
+10612,5362,Customer_612,Product_53,Electronics,15219.48,4,2024-10-11,Hyderabad,Cash on Delivery
+10613,5231,Customer_613,Product_109,Sports,27222.69,3,2024-01-29,Hyderabad,Credit Card
+10614,5045,Customer_614,Product_28,Books,5475.5,2,2024-03-07,Bangalore,Credit Card
+10615,5123,Customer_615,Product_64,Electronics,44687.11,4,2024-04-12,Chennai,Debit Card
+10616,5270,Customer_616,Product_88,Sports,35878.19,2,2024-03-24,Bangalore,Credit Card
+10617,5286,Customer_617,Product_44,Electronics,20082.81,2,2024-07-12,Chennai,Debit Card
+10618,5211,Customer_618,Product_8,Electronics,20742.74,5,2024-07-16,Chennai,Credit Card
+10619,5411,Customer_619,Product_109,Clothing,17320.38,5,2024-03-14,Bangalore,Cash on Delivery
+10620,5256,Customer_620,Product_122,Home,38880.65,3,2024-07-11,Hyderabad,Credit Card
+10621,5416,Customer_621,Product_104,Electronics,1272.61,2,2024-06-17,Mumbai,Debit Card
+10622,5015,Customer_622,Product_109,Books,43253.36,5,2024-07-14,Mumbai,Credit Card
+10623,5131,Customer_623,Product_114,Home,47985.25,4,2024-12-20,Chennai,Credit Card
+10624,5086,Customer_624,Product_148,Home,2986.7,2,2024-08-06,Delhi,Debit Card
+10625,5377,Customer_625,Product_86,Clothing,33531.67,3,2024-06-08,Bangalore,Debit Card
+10626,5235,Customer_626,Product_185,Home,11933.77,1,2024-05-25,Chennai,UPI
+10627,5466,Customer_627,Product_174,Electronics,43078.1,2,2024-07-14,Chennai,UPI
+10628,5016,Customer_628,Product_170,Clothing,39959.9,2,2024-11-03,Mumbai,Debit Card
+10629,5301,Customer_629,Product_100,Electronics,7321.21,3,2024-06-08,Hyderabad,Credit Card
+10630,5131,Customer_630,Product_50,Clothing,46929.25,2,2024-07-19,Bangalore,Cash on Delivery
+10631,5125,Customer_631,Product_98,Home,22279.81,4,2024-11-25,Mumbai,Debit Card
+10632,5272,Customer_632,Product_22,Books,47272.7,2,2024-12-18,Delhi,Cash on Delivery
+10633,5006,Customer_633,Product_161,Electronics,43251.37,2,2024-09-14,Mumbai,Cash on Delivery
+10634,5334,Customer_634,Product_150,Sports,28034.88,3,2024-01-25,Bangalore,Credit Card
+10635,5003,Customer_635,Product_132,Sports,33068.2,2,2024-01-26,Chennai,Credit Card
+10636,5415,Customer_636,Product_40,Books,33444.09,1,2024-06-20,Chennai,UPI
+10637,5198,Customer_637,Product_26,Books,3474.9,2,2024-03-22,Delhi,Cash on Delivery
+10638,5139,Customer_638,Product_86,Electronics,47711.87,5,2024-09-06,Bangalore,Debit Card
+10639,5289,Customer_639,Product_1,Electronics,33444.78,3,2024-11-03,Bangalore,Cash on Delivery
+10640,5173,Customer_640,Product_16,Home,47825.98,4,2024-01-12,Mumbai,Credit Card
+10641,5225,Customer_641,Product_21,Clothing,33919.08,3,2024-07-21,Bangalore,Cash on Delivery
+10642,5096,Customer_642,Product_108,Home,33791.1,3,2024-08-08,Hyderabad,Credit Card
+10643,5469,Customer_643,Product_35,Home,37979.28,1,2024-01-26,Mumbai,Debit Card
+10644,5387,Customer_644,Product_44,Electronics,5671.82,2,2024-08-12,Chennai,Cash on Delivery
+10645,5395,Customer_645,Product_112,Clothing,22695.3,3,2024-06-06,Bangalore,UPI
+10646,5116,Customer_646,Product_65,Home,35567.5,4,2024-07-09,Bangalore,UPI
+10647,5499,Customer_647,Product_150,Clothing,22816.57,1,2024-07-01,Mumbai,Credit Card
+10648,5030,Customer_648,Product_65,Clothing,47742.63,4,2024-09-15,Bangalore,Credit Card
+10649,5173,Customer_649,Product_68,Books,28098.65,4,2024-04-30,Mumbai,Cash on Delivery
+10650,5485,Customer_650,Product_130,Clothing,11769.64,1,2024-03-25,Mumbai,Credit Card
+10651,5056,Customer_651,Product_48,Books,48442.22,2,2024-11-06,Delhi,Credit Card
+10652,5072,Customer_652,Product_137,Electronics,342.61,3,2024-09-13,Mumbai,UPI
+10653,5177,Customer_653,Product_90,Sports,11665.45,2,2024-12-13,Hyderabad,UPI
+10654,5359,Customer_654,Product_56,Books,8799.58,5,2024-03-19,Mumbai,Credit Card
+10655,5363,Customer_655,Product_119,Electronics,34453.3,5,2024-10-21,Hyderabad,Debit Card
+10656,5209,Customer_656,Product_66,Electronics,1862.74,5,2024-08-07,Hyderabad,UPI
+10657,5123,Customer_657,Product_71,Home,36937.38,5,2024-11-03,Chennai,Credit Card
+10658,5340,Customer_658,Product_160,Electronics,32094.52,3,2024-06-20,Chennai,UPI
+10659,5191,Customer_659,Product_118,Sports,27261.21,5,2024-05-31,Hyderabad,Cash on Delivery
+10660,5184,Customer_660,Product_48,Home,24479.53,2,2024-01-14,Delhi,Debit Card
+10661,5344,Customer_661,Product_82,Home,11256.4,1,2024-08-13,Delhi,Cash on Delivery
+10662,5483,Customer_662,Product_7,Sports,29337.68,1,2024-08-15,Chennai,Debit Card
+10663,5377,Customer_663,Product_173,Home,30272.82,4,2024-03-11,Delhi,Credit Card
+10664,5155,Customer_664,Product_62,Electronics,28488.52,4,2024-02-14,Chennai,Debit Card
+10665,5086,Customer_665,Product_96,Electronics,25562.97,4,2024-06-30,Mumbai,UPI
+10666,5267,Customer_666,Product_62,Books,45930.37,4,2024-05-25,Hyderabad,Cash on Delivery
+10667,5032,Customer_667,Product_200,Electronics,4779.3,2,2024-11-28,Bangalore,Credit Card
+10668,5287,Customer_668,Product_177,Clothing,46848.21,1,2024-02-29,Mumbai,Debit Card
+10669,5131,Customer_669,Product_115,Clothing,2166.18,5,2024-11-18,Hyderabad,Credit Card
+10670,5152,Customer_670,Product_122,Clothing,14807.76,1,2024-03-15,Bangalore,UPI
+10671,5198,Customer_671,Product_170,Books,42576.17,4,2024-05-02,Delhi,Debit Card
+10672,5092,Customer_672,Product_144,Sports,36058.77,3,2024-02-12,Hyderabad,Cash on Delivery
+10673,5484,Customer_673,Product_163,Sports,13175.39,2,2024-03-12,Chennai,Debit Card
+10674,5204,Customer_674,Product_44,Sports,33855.03,1,2024-09-18,Delhi,Credit Card
+10675,5474,Customer_675,Product_53,Books,20452.45,4,2024-08-17,Bangalore,UPI
+10676,5257,Customer_676,Product_28,Books,7857.62,3,2024-09-27,Delhi,Cash on Delivery
+10677,5160,Customer_677,Product_35,Electronics,27595.85,2,2024-09-11,Bangalore,Debit Card
+10678,5471,Customer_678,Product_165,Books,12023.37,5,2024-11-14,Chennai,UPI
+10679,5438,Customer_679,Product_125,Home,46225.78,2,2024-10-31,Chennai,UPI
+10680,5136,Customer_680,Product_169,Sports,17442.33,5,2024-02-03,Chennai,UPI
+10681,5407,Customer_681,Product_89,Home,5473.59,4,2024-12-16,Bangalore,Cash on Delivery
+10682,5255,Customer_682,Product_86,Books,10314.28,4,2024-02-27,Mumbai,Credit Card
+10683,5377,Customer_683,Product_15,Clothing,24293.34,2,2024-02-09,Delhi,Credit Card
+10684,5288,Customer_684,Product_161,Sports,3356.76,1,2024-03-21,Bangalore,Debit Card
+10685,5396,Customer_685,Product_113,Home,21658.45,5,2024-09-19,Delhi,Cash on Delivery
+10686,5425,Customer_686,Product_20,Sports,18115.76,4,2024-08-30,Bangalore,Credit Card
+10687,5131,Customer_687,Product_163,Books,15911.51,1,2024-02-08,Delhi,Debit Card
+10688,5122,Customer_688,Product_152,Clothing,10505.34,1,2024-06-28,Mumbai,Credit Card
+10689,5293,Customer_689,Product_128,Electronics,34013.98,5,2024-11-01,Mumbai,Cash on Delivery
+10690,5044,Customer_690,Product_197,Sports,15649.77,4,2024-02-25,Mumbai,UPI
+10691,5120,Customer_691,Product_153,Clothing,9507.42,4,2024-02-05,Bangalore,Cash on Delivery
+10692,5305,Customer_692,Product_27,Home,25003.53,3,2024-10-17,Chennai,Cash on Delivery
+10693,5207,Customer_693,Product_185,Home,8872.9,3,2024-01-29,Mumbai,UPI
+10694,5280,Customer_694,Product_165,Clothing,34635.26,4,2024-10-20,Chennai,UPI
+10695,5394,Customer_695,Product_8,Clothing,17923.88,5,2024-07-03,Delhi,Debit Card
+10696,5269,Customer_696,Product_6,Books,33868.73,4,2024-11-06,Hyderabad,Credit Card
+10697,5332,Customer_697,Product_104,Sports,12641.7,2,2024-11-11,Bangalore,Debit Card
+10698,5147,Customer_698,Product_48,Home,41744.82,2,2024-02-19,Mumbai,Cash on Delivery
+10699,5430,Customer_699,Product_120,Electronics,2963.87,1,2024-09-25,Bangalore,Credit Card
+10700,5396,Customer_700,Product_154,Books,4738.11,5,2024-01-16,Delhi,UPI
+10701,5274,Customer_701,Product_12,Books,24865.06,1,2024-12-27,Mumbai,UPI
+10702,5426,Customer_702,Product_2,Clothing,40847.5,4,2024-10-30,Hyderabad,Credit Card
+10703,5104,Customer_703,Product_1,Home,29672.84,5,2024-01-21,Mumbai,Cash on Delivery
+10704,5409,Customer_704,Product_167,Sports,7382.17,2,2024-12-21,Delhi,UPI
+10705,5154,Customer_705,Product_174,Clothing,3306.07,3,2024-11-08,Bangalore,Cash on Delivery
+10706,5168,Customer_706,Product_15,Sports,41930.32,5,2024-11-16,Bangalore,Debit Card
+10707,5480,Customer_707,Product_99,Clothing,11033.62,4,2024-05-14,Hyderabad,Debit Card
+10708,5026,Customer_708,Product_4,Electronics,13342.52,5,2024-05-08,Delhi,Cash on Delivery
+10709,5500,Customer_709,Product_118,Electronics,31852.42,4,2024-02-06,Hyderabad,Debit Card
+10710,5272,Customer_710,Product_166,Clothing,22211.28,4,2024-05-02,Mumbai,Cash on Delivery
+10711,5228,Customer_711,Product_59,Clothing,28800.43,5,2024-02-20,Mumbai,Debit Card
+10712,5047,Customer_712,Product_12,Sports,24172.83,1,2024-03-04,Delhi,UPI
+10713,5380,Customer_713,Product_162,Sports,40635.7,3,2024-07-28,Bangalore,Cash on Delivery
+10714,5234,Customer_714,Product_138,Home,42547.61,5,2024-09-03,Delhi,Cash on Delivery
+10715,5250,Customer_715,Product_156,Home,1852.54,3,2024-04-19,Chennai,UPI
+10716,5144,Customer_716,Product_165,Books,27437.26,5,2024-05-05,Hyderabad,Credit Card
+10717,5496,Customer_717,Product_150,Sports,36602.15,5,2024-01-12,Chennai,Credit Card
+10718,5013,Customer_718,Product_39,Books,29055.28,1,2024-05-13,Chennai,Debit Card
+10719,5136,Customer_719,Product_93,Books,36795.46,2,2024-06-24,Hyderabad,UPI
+10720,5137,Customer_720,Product_72,Home,6770.0,3,2024-01-22,Delhi,Credit Card
+10721,5293,Customer_721,Product_141,Home,23918.62,3,2024-04-03,Hyderabad,Debit Card
+10722,5050,Customer_722,Product_50,Home,3569.06,3,2024-11-17,Hyderabad,UPI
+10723,5206,Customer_723,Product_84,Books,25352.7,1,2024-02-13,Bangalore,Credit Card
+10724,5096,Customer_724,Product_125,Sports,32903.95,4,2024-10-10,Chennai,Credit Card
+10725,5142,Customer_725,Product_36,Electronics,526.17,4,2024-11-01,Delhi,Debit Card
+10726,5456,Customer_726,Product_66,Books,44027.5,4,2024-08-10,Hyderabad,Debit Card
+10727,5220,Customer_727,Product_35,Books,20094.44,2,2024-01-01,Mumbai,UPI
+10728,5310,Customer_728,Product_48,Clothing,2663.9,2,2024-05-17,Bangalore,Cash on Delivery
+10729,5427,Customer_729,Product_183,Books,11963.16,2,2024-11-18,Mumbai,Cash on Delivery
+10730,5410,Customer_730,Product_58,Home,14950.95,2,2024-04-06,Delhi,Debit Card
+10731,5426,Customer_731,Product_151,Electronics,24988.81,2,2024-02-25,Bangalore,Debit Card
+10732,5169,Customer_732,Product_152,Books,43290.33,2,2024-08-05,Hyderabad,Cash on Delivery
+10733,5380,Customer_733,Product_189,Electronics,3801.35,3,2024-01-01,Chennai,Debit Card
+10734,5023,Customer_734,Product_21,Clothing,46749.99,4,2024-06-17,Bangalore,UPI
+10735,5069,Customer_735,Product_124,Clothing,15238.11,4,2024-01-22,Hyderabad,Credit Card
+10736,5182,Customer_736,Product_175,Clothing,5406.62,5,2024-12-23,Mumbai,Debit Card
+10737,5428,Customer_737,Product_149,Home,31798.14,2,2024-08-11,Bangalore,Cash on Delivery
+10738,5093,Customer_738,Product_12,Electronics,40244.17,1,2024-05-21,Mumbai,UPI
+10739,5416,Customer_739,Product_76,Electronics,12488.94,1,2024-12-31,Delhi,Debit Card
+10740,5106,Customer_740,Product_127,Clothing,8638.6,2,2024-05-24,Chennai,Debit Card
+10741,5463,Customer_741,Product_200,Clothing,32292.15,5,2024-01-01,Delhi,Cash on Delivery
+10742,5316,Customer_742,Product_66,Sports,21182.82,5,2024-12-22,Mumbai,Cash on Delivery
+10743,5445,Customer_743,Product_131,Home,43467.54,5,2024-11-03,Delhi,Credit Card
+10744,5227,Customer_744,Product_44,Electronics,12260.67,2,2024-12-02,Hyderabad,Cash on Delivery
+10745,5076,Customer_745,Product_175,Sports,16502.91,4,2024-11-26,Mumbai,Debit Card
+10746,5097,Customer_746,Product_115,Sports,33104.41,4,2024-11-07,Hyderabad,Cash on Delivery
+10747,5052,Customer_747,Product_57,Sports,36799.33,5,2024-08-20,Hyderabad,UPI
+10748,5224,Customer_748,Product_140,Books,43744.26,3,2024-07-06,Hyderabad,UPI
+10749,5122,Customer_749,Product_75,Books,32966.74,3,2024-06-07,Hyderabad,Credit Card
+10750,5409,Customer_750,Product_59,Electronics,25421.87,3,2024-03-26,Chennai,Debit Card
+10751,5495,Customer_751,Product_50,Electronics,37158.59,3,2024-03-27,Mumbai,UPI
+10752,5173,Customer_752,Product_76,Electronics,9070.52,4,2024-05-07,Chennai,Debit Card
+10753,5035,Customer_753,Product_80,Home,36350.84,2,2024-05-09,Delhi,UPI
+10754,5093,Customer_754,Product_87,Books,26660.97,1,2024-05-31,Hyderabad,Credit Card
+10755,5074,Customer_755,Product_86,Books,28435.61,2,2024-06-28,Hyderabad,Credit Card
+10756,5339,Customer_756,Product_67,Sports,31454.77,5,2024-04-04,Hyderabad,UPI
+10757,5364,Customer_757,Product_125,Electronics,22178.26,2,2024-09-03,Bangalore,Credit Card
+10758,5275,Customer_758,Product_93,Electronics,40557.41,1,2024-09-30,Delhi,UPI
+10759,5045,Customer_759,Product_175,Clothing,38603.41,4,2024-06-22,Hyderabad,Credit Card
+10760,5337,Customer_760,Product_49,Home,19604.01,1,2024-12-28,Delhi,Debit Card
+10761,5161,Customer_761,Product_190,Clothing,49192.02,2,2024-10-01,Delhi,Credit Card
+10762,5044,Customer_762,Product_157,Clothing,10989.57,2,2024-11-08,Delhi,Debit Card
+10763,5010,Customer_763,Product_103,Electronics,38400.57,5,2024-04-14,Bangalore,Debit Card
+10764,5119,Customer_764,Product_74,Books,26917.3,5,2024-05-14,Hyderabad,Debit Card
+10765,5157,Customer_765,Product_81,Clothing,31120.42,2,2024-08-23,Delhi,Cash on Delivery
+10766,5467,Customer_766,Product_123,Home,17119.6,3,2024-05-16,Delhi,Debit Card
+10767,5040,Customer_767,Product_114,Books,19630.62,4,2024-02-12,Delhi,Credit Card
+10768,5011,Customer_768,Product_26,Home,43466.12,3,2024-08-04,Hyderabad,Credit Card
+10769,5046,Customer_769,Product_47,Books,37520.67,4,2024-11-15,Chennai,Debit Card
+10770,5450,Customer_770,Product_16,Sports,44488.13,5,2024-06-22,Chennai,Cash on Delivery
+10771,5106,Customer_771,Product_92,Books,45628.52,3,2024-05-15,Mumbai,Credit Card
+10772,5075,Customer_772,Product_94,Electronics,7395.87,3,2024-01-24,Chennai,Debit Card
+10773,5429,Customer_773,Product_24,Clothing,15011.66,2,2024-01-06,Hyderabad,Cash on Delivery
+10774,5341,Customer_774,Product_113,Sports,40809.17,4,2024-11-04,Hyderabad,Credit Card
+10775,5174,Customer_775,Product_76,Books,35452.66,5,2024-07-19,Hyderabad,UPI
+10776,5030,Customer_776,Product_58,Clothing,19916.75,3,2024-05-08,Bangalore,Cash on Delivery
+10777,5199,Customer_777,Product_139,Home,30323.15,2,2024-10-28,Hyderabad,Credit Card
+10778,5299,Customer_778,Product_120,Books,7256.06,4,2024-08-23,Bangalore,Credit Card
+10779,5036,Customer_779,Product_130,Clothing,8541.11,4,2024-12-26,Mumbai,Debit Card
+10780,5422,Customer_780,Product_98,Electronics,11518.33,2,2024-01-25,Chennai,Cash on Delivery
+10781,5278,Customer_781,Product_194,Sports,4009.1,3,2024-08-11,Mumbai,Cash on Delivery
+10782,5409,Customer_782,Product_193,Books,10264.34,5,2024-05-07,Bangalore,UPI
+10783,5178,Customer_783,Product_33,Sports,43435.4,1,2024-02-19,Delhi,Debit Card
+10784,5406,Customer_784,Product_45,Books,49232.97,3,2024-04-15,Chennai,Cash on Delivery
+10785,5157,Customer_785,Product_120,Sports,28500.08,4,2024-05-05,Delhi,Cash on Delivery
+10786,5291,Customer_786,Product_20,Clothing,38894.24,2,2024-11-27,Delhi,UPI
+10787,5021,Customer_787,Product_111,Electronics,27928.42,2,2024-12-08,Chennai,Debit Card
+10788,5353,Customer_788,Product_19,Sports,306.57,5,2024-07-27,Bangalore,Cash on Delivery
+10789,5384,Customer_789,Product_18,Sports,16285.47,5,2024-06-12,Hyderabad,Credit Card
+10790,5110,Customer_790,Product_87,Clothing,5743.72,3,2024-05-03,Bangalore,Cash on Delivery
+10791,5244,Customer_791,Product_105,Sports,17786.64,4,2024-07-28,Hyderabad,Debit Card
+10792,5260,Customer_792,Product_122,Electronics,44158.16,3,2024-02-02,Hyderabad,Cash on Delivery
+10793,5259,Customer_793,Product_151,Clothing,21870.56,5,2024-04-24,Bangalore,Cash on Delivery
+10794,5180,Customer_794,Product_62,Books,16166.78,4,2024-03-30,Bangalore,Debit Card
+10795,5414,Customer_795,Product_90,Clothing,30244.51,5,2024-02-23,Mumbai,Debit Card
+10796,5140,Customer_796,Product_14,Books,21880.64,4,2024-01-19,Mumbai,Credit Card
+10797,5236,Customer_797,Product_182,Electronics,44041.53,3,2024-09-16,Hyderabad,Debit Card
+10798,5250,Customer_798,Product_122,Electronics,44930.25,1,2024-03-15,Bangalore,Debit Card
+10799,5295,Customer_799,Product_158,Home,11062.13,3,2024-07-06,Delhi,UPI
+10800,5382,Customer_800,Product_74,Home,24188.25,1,2024-05-24,Bangalore,Credit Card
+10801,5488,Customer_801,Product_25,Sports,30211.57,5,2024-11-24,Mumbai,Debit Card
+10802,5126,Customer_802,Product_191,Sports,47396.2,2,2024-01-29,Delhi,Debit Card
+10803,5109,Customer_803,Product_28,Clothing,30197.77,2,2024-09-03,Delhi,Debit Card
+10804,5088,Customer_804,Product_53,Books,38644.29,1,2024-09-10,Chennai,UPI
+10805,5296,Customer_805,Product_61,Home,9348.8,3,2024-03-15,Bangalore,Credit Card
+10806,5218,Customer_806,Product_162,Electronics,34090.85,2,2024-05-13,Hyderabad,UPI
+10807,5203,Customer_807,Product_83,Electronics,26830.74,3,2024-03-25,Bangalore,UPI
+10808,5438,Customer_808,Product_86,Books,29314.89,4,2024-11-24,Delhi,Debit Card
+10809,5343,Customer_809,Product_153,Sports,42639.14,2,2024-11-23,Chennai,Debit Card
+10810,5186,Customer_810,Product_79,Home,26256.33,1,2024-08-01,Mumbai,Cash on Delivery
+10811,5487,Customer_811,Product_133,Sports,49454.55,4,2024-01-29,Bangalore,Debit Card
+10812,5065,Customer_812,Product_61,Books,20537.08,4,2024-03-24,Bangalore,Credit Card
+10813,5375,Customer_813,Product_130,Home,40249.46,3,2024-12-28,Delhi,UPI
+10814,5087,Customer_814,Product_136,Clothing,45776.33,5,2024-12-07,Delhi,Cash on Delivery
+10815,5124,Customer_815,Product_3,Books,42861.24,2,2024-04-09,Hyderabad,UPI
+10816,5427,Customer_816,Product_53,Books,42936.52,4,2024-03-27,Mumbai,Credit Card
+10817,5209,Customer_817,Product_176,Electronics,23705.89,1,2024-07-19,Hyderabad,UPI
+10818,5471,Customer_818,Product_153,Electronics,28214.15,1,2024-12-11,Hyderabad,Credit Card
+10819,5363,Customer_819,Product_21,Home,6041.63,3,2024-01-09,Mumbai,UPI
+10820,5294,Customer_820,Product_78,Home,10108.69,1,2024-05-30,Chennai,UPI
+10821,5324,Customer_821,Product_126,Clothing,12159.53,2,2024-10-16,Chennai,Credit Card
+10822,5221,Customer_822,Product_191,Books,46043.05,2,2024-09-25,Chennai,Debit Card
+10823,5329,Customer_823,Product_57,Home,12047.89,2,2024-08-01,Mumbai,UPI
+10824,5049,Customer_824,Product_85,Books,45017.34,5,2024-02-05,Hyderabad,UPI
+10825,5297,Customer_825,Product_160,Clothing,35074.5,1,2024-04-08,Bangalore,Cash on Delivery
+10826,5085,Customer_826,Product_126,Books,40430.14,1,2024-03-07,Hyderabad,Credit Card
+10827,5293,Customer_827,Product_109,Electronics,13968.92,2,2024-03-16,Mumbai,Cash on Delivery
+10828,5019,Customer_828,Product_128,Electronics,2167.33,2,2024-02-10,Mumbai,Debit Card
+10829,5374,Customer_829,Product_196,Books,45030.22,5,2024-01-31,Bangalore,Credit Card
+10830,5119,Customer_830,Product_158,Sports,41308.84,2,2024-07-11,Delhi,Cash on Delivery
+10831,5467,Customer_831,Product_191,Home,24357.06,4,2024-08-08,Bangalore,UPI
+10832,5012,Customer_832,Product_5,Electronics,38119.21,5,2024-12-06,Delhi,Credit Card
+10833,5011,Customer_833,Product_138,Sports,34470.65,5,2024-07-08,Chennai,UPI
+10834,5135,Customer_834,Product_69,Clothing,36644.65,3,2024-05-18,Hyderabad,UPI
+10835,5200,Customer_835,Product_197,Clothing,13965.71,4,2024-07-21,Mumbai,Credit Card
+10836,5447,Customer_836,Product_98,Electronics,49848.7,4,2024-09-16,Hyderabad,UPI
+10837,5336,Customer_837,Product_23,Sports,9199.24,1,2024-01-23,Mumbai,Debit Card
+10838,5351,Customer_838,Product_174,Books,41424.1,5,2024-05-30,Hyderabad,UPI
+10839,5385,Customer_839,Product_195,Clothing,29310.69,5,2024-10-15,Hyderabad,Debit Card
+10840,5186,Customer_840,Product_151,Sports,24696.52,2,2024-05-31,Hyderabad,Credit Card
+10841,5001,Customer_841,Product_196,Clothing,10705.44,1,2024-10-07,Mumbai,UPI
+10842,5189,Customer_842,Product_142,Sports,24425.83,5,2024-04-28,Hyderabad,Credit Card
+10843,5073,Customer_843,Product_171,Clothing,12724.11,4,2024-06-30,Mumbai,Cash on Delivery
+10844,5214,Customer_844,Product_164,Electronics,24727.7,5,2024-05-12,Delhi,UPI
+10845,5093,Customer_845,Product_18,Sports,35728.48,5,2024-09-17,Mumbai,Cash on Delivery
+10846,5205,Customer_846,Product_188,Sports,38958.5,1,2024-08-06,Chennai,Debit Card
+10847,5018,Customer_847,Product_73,Clothing,31699.2,5,2024-08-24,Hyderabad,Cash on Delivery
+10848,5392,Customer_848,Product_183,Books,22106.76,2,2024-01-01,Chennai,Debit Card
+10849,5122,Customer_849,Product_105,Books,21224.65,4,2024-07-10,Bangalore,Debit Card
+10850,5248,Customer_850,Product_44,Books,124.98,2,2024-03-17,Hyderabad,UPI
+10851,5347,Customer_851,Product_154,Home,21719.84,3,2024-01-23,Bangalore,UPI
+10852,5150,Customer_852,Product_89,Books,8361.01,4,2024-03-04,Hyderabad,Cash on Delivery
+10853,5239,Customer_853,Product_148,Electronics,47636.61,5,2024-03-06,Hyderabad,Cash on Delivery
+10854,5389,Customer_854,Product_118,Home,25220.44,3,2024-10-19,Chennai,UPI
+10855,5157,Customer_855,Product_55,Electronics,14079.61,5,2024-07-21,Chennai,Debit Card
+10856,5262,Customer_856,Product_21,Clothing,39455.64,4,2024-01-05,Chennai,UPI
+10857,5292,Customer_857,Product_184,Books,17000.67,1,2024-02-13,Hyderabad,Credit Card
+10858,5089,Customer_858,Product_161,Clothing,18452.06,2,2024-12-13,Mumbai,Cash on Delivery
+10859,5259,Customer_859,Product_35,Electronics,15064.89,3,2024-04-17,Hyderabad,Cash on Delivery
+10860,5136,Customer_860,Product_13,Home,35525.97,2,2024-10-28,Delhi,Credit Card
+10861,5244,Customer_861,Product_150,Clothing,1793.28,2,2024-05-14,Chennai,Debit Card
+10862,5358,Customer_862,Product_102,Books,48863.5,5,2024-06-15,Delhi,Cash on Delivery
+10863,5307,Customer_863,Product_139,Sports,18843.5,1,2024-07-11,Hyderabad,Credit Card
+10864,5083,Customer_864,Product_57,Clothing,1033.53,1,2024-06-25,Chennai,Credit Card
+10865,5015,Customer_865,Product_156,Clothing,4773.0,1,2024-03-21,Bangalore,Debit Card
+10866,5122,Customer_866,Product_90,Sports,26055.52,1,2024-07-25,Bangalore,Debit Card
+10867,5398,Customer_867,Product_62,Sports,34663.21,2,2024-11-17,Chennai,Cash on Delivery
+10868,5422,Customer_868,Product_125,Home,22548.97,5,2024-02-24,Bangalore,Credit Card
+10869,5486,Customer_869,Product_111,Books,48480.98,2,2024-02-01,Bangalore,Credit Card
+10870,5070,Customer_870,Product_24,Sports,25259.47,1,2024-11-09,Chennai,Cash on Delivery
+10871,5102,Customer_871,Product_30,Clothing,26373.44,1,2024-03-25,Delhi,Cash on Delivery
+10872,5202,Customer_872,Product_153,Clothing,6063.21,1,2024-01-30,Delhi,Debit Card
+10873,5409,Customer_873,Product_21,Clothing,16072.9,5,2024-03-17,Chennai,Credit Card
+10874,5342,Customer_874,Product_24,Sports,26583.01,3,2024-02-20,Mumbai,Debit Card
+10875,5052,Customer_875,Product_8,Sports,20150.3,1,2024-01-16,Bangalore,Credit Card
+10876,5461,Customer_876,Product_146,Clothing,35059.55,4,2024-05-03,Mumbai,Cash on Delivery
+10877,5034,Customer_877,Product_112,Clothing,44262.23,5,2024-12-02,Bangalore,UPI
+10878,5003,Customer_878,Product_64,Sports,39814.06,1,2024-05-13,Bangalore,Cash on Delivery
+10879,5321,Customer_879,Product_129,Books,32911.31,4,2024-04-15,Hyderabad,Debit Card
+10880,5355,Customer_880,Product_166,Electronics,3944.34,5,2024-04-16,Bangalore,Debit Card
+10881,5324,Customer_881,Product_58,Electronics,34403.61,4,2024-04-19,Mumbai,UPI
+10882,5155,Customer_882,Product_146,Sports,6268.97,3,2024-03-24,Delhi,Debit Card
+10883,5266,Customer_883,Product_127,Books,43597.54,5,2024-05-15,Delhi,Debit Card
+10884,5495,Customer_884,Product_127,Electronics,30242.03,5,2024-10-14,Hyderabad,Cash on Delivery
+10885,5020,Customer_885,Product_166,Books,18204.57,5,2024-11-17,Hyderabad,Credit Card
+10886,5276,Customer_886,Product_114,Clothing,20030.29,5,2024-05-12,Chennai,Debit Card
+10887,5484,Customer_887,Product_140,Home,43821.35,3,2024-05-07,Hyderabad,Credit Card
+10888,5035,Customer_888,Product_61,Books,2627.2,1,2024-08-20,Chennai,UPI
+10889,5157,Customer_889,Product_109,Electronics,1343.71,5,2024-04-04,Mumbai,Cash on Delivery
+10890,5339,Customer_890,Product_66,Home,28304.89,3,2024-01-03,Hyderabad,Credit Card
+10891,5257,Customer_891,Product_171,Home,1652.99,1,2024-07-18,Hyderabad,Debit Card
+10892,5061,Customer_892,Product_87,Sports,30132.29,2,2024-06-09,Hyderabad,UPI
+10893,5416,Customer_893,Product_7,Home,18670.97,1,2024-06-24,Hyderabad,UPI
+10894,5398,Customer_894,Product_127,Electronics,46463.61,4,2024-03-24,Chennai,UPI
+10895,5101,Customer_895,Product_60,Clothing,26406.28,2,2024-07-20,Chennai,Cash on Delivery
+10896,5047,Customer_896,Product_154,Home,49985.63,1,2024-08-04,Bangalore,Cash on Delivery
+10897,5219,Customer_897,Product_196,Home,35107.46,3,2024-09-29,Delhi,Debit Card
+10898,5406,Customer_898,Product_169,Books,41036.51,1,2024-08-04,Delhi,Debit Card
+10899,5126,Customer_899,Product_111,Sports,44705.97,3,2024-02-04,Mumbai,Debit Card
+10900,5256,Customer_900,Product_124,Books,26306.07,3,2024-10-24,Chennai,Cash on Delivery
+10901,5130,Customer_901,Product_56,Books,27612.79,1,2024-11-09,Bangalore,Credit Card
+10902,5255,Customer_902,Product_116,Sports,37779.72,4,2024-12-21,Chennai,Credit Card
+10903,5307,Customer_903,Product_53,Electronics,30642.07,2,2024-06-14,Bangalore,Credit Card
+10904,5082,Customer_904,Product_93,Books,47984.48,1,2024-08-11,Delhi,Debit Card
+10905,5364,Customer_905,Product_104,Clothing,28235.75,5,2024-03-11,Delhi,UPI
+10906,5002,Customer_906,Product_23,Books,48765.58,2,2024-11-16,Mumbai,Credit Card
+10907,5347,Customer_907,Product_142,Electronics,15197.67,2,2024-03-10,Chennai,Debit Card
+10908,5152,Customer_908,Product_198,Electronics,6858.64,3,2024-08-11,Bangalore,Credit Card
+10909,5079,Customer_909,Product_172,Home,25208.73,1,2024-05-13,Hyderabad,Cash on Delivery
+10910,5469,Customer_910,Product_113,Clothing,13211.48,1,2024-08-28,Chennai,UPI
+10911,5178,Customer_911,Product_45,Electronics,29458.7,2,2024-06-05,Delhi,Debit Card
+10912,5499,Customer_912,Product_180,Books,35581.87,1,2024-04-03,Chennai,UPI
+10913,5019,Customer_913,Product_75,Sports,9794.26,5,2024-04-30,Bangalore,Cash on Delivery
+10914,5012,Customer_914,Product_48,Books,11637.24,3,2024-08-20,Mumbai,Cash on Delivery
+10915,5070,Customer_915,Product_96,Electronics,3044.3,5,2024-03-11,Delhi,Credit Card
+10916,5376,Customer_916,Product_87,Sports,29099.12,4,2024-04-12,Delhi,UPI
+10917,5344,Customer_917,Product_21,Electronics,14552.56,1,2024-08-15,Hyderabad,Debit Card
+10918,5013,Customer_918,Product_93,Home,4708.33,2,2024-05-08,Delhi,Cash on Delivery
+10919,5284,Customer_919,Product_82,Books,43541.66,2,2024-07-12,Chennai,Debit Card
+10920,5206,Customer_920,Product_18,Electronics,19358.48,1,2024-08-11,Chennai,UPI
+10921,5150,Customer_921,Product_147,Clothing,26347.72,1,2024-06-08,Chennai,Credit Card
+10922,5118,Customer_922,Product_126,Sports,18498.62,2,2024-08-17,Chennai,Credit Card
+10923,5289,Customer_923,Product_151,Sports,20305.6,2,2024-12-27,Delhi,UPI
+10924,5316,Customer_924,Product_32,Home,5324.2,3,2024-06-18,Hyderabad,Debit Card
+10925,5038,Customer_925,Product_171,Electronics,16645.49,3,2024-02-15,Delhi,Cash on Delivery
+10926,5479,Customer_926,Product_196,Sports,28404.53,4,2024-06-05,Chennai,Cash on Delivery
+10927,5117,Customer_927,Product_130,Sports,18193.99,3,2024-07-15,Bangalore,Debit Card
+10928,5467,Customer_928,Product_164,Home,3790.72,4,2024-02-02,Hyderabad,UPI
+10929,5272,Customer_929,Product_47,Clothing,30603.34,3,2024-10-26,Bangalore,Cash on Delivery
+10930,5473,Customer_930,Product_72,Home,13418.12,4,2024-05-05,Mumbai,Cash on Delivery
+10931,5361,Customer_931,Product_195,Sports,29587.32,1,2024-04-06,Hyderabad,Debit Card
+10932,5300,Customer_932,Product_157,Electronics,40107.38,3,2024-08-13,Mumbai,Credit Card
+10933,5307,Customer_933,Product_178,Clothing,44762.69,1,2024-12-19,Chennai,Cash on Delivery
+10934,5071,Customer_934,Product_37,Clothing,210.37,3,2024-04-20,Mumbai,Credit Card
+10935,5104,Customer_935,Product_16,Clothing,44432.85,3,2024-07-07,Delhi,UPI
+10936,5353,Customer_936,Product_98,Books,35935.73,2,2024-04-04,Mumbai,Cash on Delivery
+10937,5196,Customer_937,Product_177,Sports,31020.62,2,2024-03-18,Chennai,Cash on Delivery
+10938,5447,Customer_938,Product_145,Clothing,48722.54,3,2024-12-10,Chennai,Credit Card
+10939,5261,Customer_939,Product_186,Clothing,41415.31,3,2024-07-03,Hyderabad,Credit Card
+10940,5395,Customer_940,Product_76,Home,20386.78,3,2024-11-14,Chennai,Cash on Delivery
+10941,5151,Customer_941,Product_195,Electronics,22600.68,1,2024-09-06,Mumbai,UPI
+10942,5139,Customer_942,Product_173,Sports,8579.78,4,2024-05-15,Mumbai,Cash on Delivery
+10943,5068,Customer_943,Product_190,Books,18459.9,5,2024-06-17,Delhi,Credit Card
+10944,5205,Customer_944,Product_199,Clothing,22410.22,2,2024-11-05,Hyderabad,Cash on Delivery
+10945,5368,Customer_945,Product_13,Clothing,14689.6,3,2024-02-12,Chennai,Cash on Delivery
+10946,5216,Customer_946,Product_4,Sports,33929.22,1,2024-08-13,Hyderabad,Credit Card
+10947,5449,Customer_947,Product_80,Home,16167.56,3,2024-02-26,Chennai,Credit Card
+10948,5416,Customer_948,Product_149,Books,45489.26,4,2024-05-22,Bangalore,Debit Card
+10949,5329,Customer_949,Product_185,Electronics,9479.42,4,2024-09-09,Chennai,Debit Card
+10950,5493,Customer_950,Product_131,Clothing,7304.03,3,2024-06-07,Bangalore,UPI
+10951,5385,Customer_951,Product_154,Books,41674.43,5,2024-01-24,Chennai,Debit Card
+10952,5448,Customer_952,Product_155,Home,21627.28,1,2024-01-13,Hyderabad,UPI
+10953,5093,Customer_953,Product_80,Home,27066.03,4,2024-09-06,Hyderabad,Cash on Delivery
+10954,5229,Customer_954,Product_92,Clothing,9975.57,1,2024-06-14,Bangalore,Credit Card
+10955,5080,Customer_955,Product_113,Electronics,39857.64,3,2024-12-25,Chennai,Debit Card
+10956,5203,Customer_956,Product_174,Home,29332.33,2,2024-07-28,Hyderabad,Credit Card
+10957,5221,Customer_957,Product_128,Clothing,16655.28,2,2024-03-10,Mumbai,Debit Card
+10958,5488,Customer_958,Product_152,Books,5744.72,2,2024-02-12,Chennai,Debit Card
+10959,5448,Customer_959,Product_36,Sports,42405.29,4,2024-05-05,Chennai,Cash on Delivery
+10960,5234,Customer_960,Product_131,Clothing,28209.85,5,2024-12-18,Bangalore,UPI
+10961,5222,Customer_961,Product_44,Clothing,34225.22,5,2024-12-22,Mumbai,UPI
+10962,5407,Customer_962,Product_7,Sports,20061.57,3,2024-10-15,Hyderabad,UPI
+10963,5424,Customer_963,Product_44,Clothing,24379.85,1,2024-11-10,Chennai,UPI
+10964,5391,Customer_964,Product_14,Clothing,18395.31,5,2024-01-12,Bangalore,Debit Card
+10965,5274,Customer_965,Product_4,Books,15246.08,2,2024-05-26,Delhi,UPI
+10966,5360,Customer_966,Product_25,Home,47516.0,2,2024-07-08,Bangalore,Debit Card
+10967,5274,Customer_967,Product_98,Sports,15450.34,5,2024-09-05,Hyderabad,Credit Card
+10968,5028,Customer_968,Product_110,Home,6533.95,2,2024-02-11,Delhi,UPI
+10969,5229,Customer_969,Product_128,Electronics,35814.37,1,2024-07-12,Bangalore,Credit Card
+10970,5083,Customer_970,Product_10,Home,28194.85,5,2024-10-09,Chennai,Cash on Delivery
+10971,5415,Customer_971,Product_4,Electronics,36483.48,5,2024-02-03,Chennai,Cash on Delivery
+10972,5288,Customer_972,Product_27,Books,45712.65,4,2024-07-24,Delhi,Debit Card
+10973,5030,Customer_973,Product_1,Clothing,27650.53,2,2024-01-26,Hyderabad,UPI
+10974,5431,Customer_974,Product_131,Books,27140.7,5,2024-08-06,Mumbai,Cash on Delivery
+10975,5190,Customer_975,Product_29,Clothing,38369.51,1,2024-02-15,Bangalore,Credit Card
+10976,5111,Customer_976,Product_87,Books,35904.52,1,2024-10-24,Chennai,UPI
+10977,5045,Customer_977,Product_189,Home,14693.78,1,2024-11-22,Delhi,UPI
+10978,5118,Customer_978,Product_83,Books,17708.55,5,2024-06-19,Chennai,Debit Card
+10979,5298,Customer_979,Product_118,Clothing,32320.79,3,2024-09-21,Delhi,Debit Card
+10980,5419,Customer_980,Product_17,Electronics,13070.96,5,2024-05-15,Hyderabad,UPI
+10981,5469,Customer_981,Product_100,Books,37289.19,5,2024-09-08,Bangalore,UPI
+10982,5313,Customer_982,Product_86,Home,14745.33,5,2024-12-14,Mumbai,Debit Card
+10983,5328,Customer_983,Product_61,Electronics,43717.57,2,2024-07-05,Hyderabad,Credit Card
+10984,5459,Customer_984,Product_107,Books,44348.02,2,2024-05-06,Bangalore,Debit Card
+10985,5400,Customer_985,Product_70,Sports,31644.5,4,2024-07-28,Delhi,Debit Card
+10986,5417,Customer_986,Product_98,Electronics,47646.41,1,2024-07-17,Delhi,Debit Card
+10987,5394,Customer_987,Product_166,Sports,28848.07,1,2024-06-14,Bangalore,Debit Card
+10988,5422,Customer_988,Product_13,Clothing,11483.24,4,2024-01-10,Hyderabad,UPI
+10989,5307,Customer_989,Product_187,Clothing,1703.19,2,2024-02-05,Bangalore,UPI
+10990,5425,Customer_990,Product_6,Clothing,3054.45,4,2024-02-28,Chennai,Debit Card
+10991,5200,Customer_991,Product_36,Books,32439.82,5,2024-12-22,Delhi,Credit Card
+10992,5053,Customer_992,Product_2,Sports,4638.18,5,2024-03-21,Mumbai,Cash on Delivery
+10993,5296,Customer_993,Product_54,Electronics,8259.95,4,2024-01-29,Delhi,Credit Card
+10994,5480,Customer_994,Product_151,Clothing,227.11,3,2024-12-09,Chennai,Cash on Delivery
+10995,5324,Customer_995,Product_198,Books,46111.3,1,2024-03-31,Chennai,Debit Card
+10996,5317,Customer_996,Product_131,Clothing,28734.39,4,2024-10-08,Hyderabad,Cash on Delivery
+10997,5283,Customer_997,Product_72,Books,24665.42,5,2024-12-28,Delhi,UPI
+10998,5234,Customer_998,Product_137,Clothing,9943.87,4,2024-01-20,Hyderabad,UPI
+10999,5165,Customer_999,Product_18,Sports,43640.5,5,2024-11-08,Hyderabad,Credit Card
